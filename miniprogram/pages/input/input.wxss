@@ -1,0 +1,80 @@
+.card { padding: 32rpx; background: #fff; margin: 24rpx; border-radius: 16rpx; }
+.title { font-size: 36rpx; font-weight: 600; margin-bottom: 24rpx; }
+.field { margin: 16rpx 0; }
+.field input, .field picker view { border: 1px solid #ddd; padding: 12rpx; margin-top: 8rpx; border-radius: 8rpx; }
+.region-hint { font-size: 24rpx; color: #666; margin-top: 8rpx; }
+.picker-line { padding: 12rpx; border: 1px solid #ddd; border-radius: 8rpx; margin-top: 8rpx; }
+
+.progress-mask {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(26, 20, 16, 0.55);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40rpx;
+}
+.progress-box {
+  background: #fff;
+  border-radius: 24rpx;
+  padding: 40rpx 36rpx;
+  width: 100%;
+  max-width: 620rpx;
+  box-shadow: 0 16rpx 48rpx rgba(0, 0, 0, 0.15);
+}
+.progress-heading {
+  font-size: 34rpx;
+  font-weight: 600;
+  color: #8b4513;
+  margin-bottom: 24rpx;
+}
+.progress-step-row {
+  display: flex;
+  align-items: center;
+  font-size: 26rpx;
+  color: #999;
+  padding: 8rpx 0;
+}
+.progress-step-row.active { color: #8b4513; font-weight: 600; }
+.progress-step-row.done { color: #2d6a4f; }
+.progress-dot {
+  width: 14rpx;
+  height: 14rpx;
+  border-radius: 50%;
+  background: currentColor;
+  margin-right: 16rpx;
+}
+.progress-detail {
+  background: #faf8f5;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-top: 20rpx;
+  min-height: 160rpx;
+}
+.progress-step-title {
+  font-size: 28rpx;
+  font-weight: 600;
+  margin-bottom: 12rpx;
+}
+.progress-summary {
+  font-size: 26rpx;
+  line-height: 1.65;
+  color: #444;
+}
+.progress-cursor {
+  color: #8b4513;
+  animation: blink 0.9s step-end infinite;
+}
+@keyframes blink {
+  50% { opacity: 0; }
+}
+.progress-hint {
+  text-align: center;
+  font-size: 22rpx;
+  color: #888;
+  margin-top: 20rpx;
+}

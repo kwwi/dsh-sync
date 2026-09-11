@@ -1,0 +1,55 @@
+{
+  "count": 52869,
+  "sources": [
+    {
+      "id": "shijing",
+      "book": "诗经",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/诗经/shijing.json"
+    },
+    {
+      "id": "chuci",
+      "book": "楚辞",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/楚辞/chuci.json"
+    },
+    {
+      "id": "lunyu",
+      "book": "论语",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/论语/lunyu.json"
+    },
+    {
+      "id": "mengzi",
+      "book": "孟子",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/四书五经/mengzi.json"
+    },
+    {
+      "id": "zhongyong",
+      "book": "中庸",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/四书五经/zhongyong.json"
+    },
+    {
+      "id": "daxue",
+      "book": "大学",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/四书五经/daxue.json"
+    },
+    {
+      "id": "daodejing",
+      "book": "道德经",
+      "url": "https://raw.githubusercontent.com/zhaoolee/daodejing/main/src/data/chapters.json"
+    },
+    {
+      "id": "tangshi300",
+      "book": "唐诗三百首",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/全唐诗/唐诗三百首.json"
+    },
+    {
+      "id": "songci300",
+      "book": "宋词三百首",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/宋词/宋词三百首.json"
+    },
+    {
+      "id": "yuanqu",
+      "book": "元曲三百首",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/元曲/yuanqu.json"
+    }
+  ]
+}

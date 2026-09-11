@@ -1,0 +1,4 @@
+{
+  "desc": "智能起名",
+  "rules": [{ "action": "allow", "page": "*" }]
+}

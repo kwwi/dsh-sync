@@ -1,0 +1,7 @@
+page { background: #f5f0e8; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif; }
+.card { margin: 24rpx; padding: 32rpx; background: #fff; border-radius: 16rpx; }
+.disclaimer { font-size: 24rpx; color: #666; background: #fff8e6; padding: 16rpx; border-radius: 8rpx; margin: 16rpx 0; }
+.btn-primary { background: #8b4513; color: #fff; margin-top: 24rpx; text-align: center; padding: 20rpx 0; border-radius: 12rpx; font-size: 32rpx; }
+.btn-disabled { background: #b8957a; color: #e0d5cc; }
+.btn-primary-hover { opacity: 0.85; }
+.btn-loading-icon { margin-right: 8rpx; }

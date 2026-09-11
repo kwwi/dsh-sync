@@ -1,0 +1,20 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+.env
+backend/.env
+data/*.db
+data/corpus/raw/
+data/wuxing/raw/
+data/wuxing/cache/
+node_modules/
+web/dist/
+web/node_modules/
+.DS_Store
+*.egg-info/
+.venv/
+.idea/
+.pytest_cache/
+backend/.pytest_cache/
+*.log
+.gitnexus

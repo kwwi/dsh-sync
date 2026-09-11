@@ -1,0 +1,42 @@
+.section { font-size: 30rpx; font-weight: 600; color: #8b4513; margin: 32rpx 0 12rpx; padding-bottom: 8rpx; border-bottom: 1rpx solid #f0e6d8; }
+
+/* 基本信息 */
+.info-list { margin-bottom: 8rpx; }
+.info-row { display: flex; padding: 8rpx 0; font-size: 28rpx; border-bottom: 1rpx solid #f8f5f0; }
+.info-label { color: #666; width: 220rpx; flex-shrink: 0; }
+.info-value { color: #1a1a1a; flex: 1; }
+
+/* 命格文字 */
+.fate-text { font-size: 28rpx; line-height: 1.7; color: #333; }
+
+/* 八字/五行 pre 块 */
+.pre { display: block; white-space: pre-wrap; font-size: 26rpx; line-height: 1.7; background: #faf8f5; padding: 20rpx; border-radius: 10rpx; margin-bottom: 16rpx; color: #333; }
+
+/* 专业解读折叠 */
+.details-box { margin-bottom: 16rpx; }
+.details-summary { font-size: 28rpx; color: #8b4513; padding: 16rpx 0; font-weight: 500; }
+
+/* 备选名字卡片 */
+.name-card { border: 1rpx solid #eee; border-radius: 12rpx; padding: 24rpx; margin-bottom: 16rpx; background: #fff; }
+.name-header { display: flex; align-items: baseline; margin-bottom: 12rpx; }
+.name-rank { font-size: 26rpx; color: #8b4513; background: #fdf2e9; border-radius: 50%; width: 40rpx; height: 40rpx; display: flex; align-items: center; justify-content: center; margin-right: 12rpx; flex-shrink: 0; }
+.name-text { font-size: 36rpx; font-weight: 700; color: #1a1a1a; }
+.cite { display: block; font-size: 24rpx; color: #888; margin-bottom: 8rpx; line-height: 1.5; }
+.meaning { font-size: 28rpx; line-height: 1.65; color: #333; margin-bottom: 10rpx; }
+.name-tags { display: flex; flex-wrap: wrap; gap: 8rpx; }
+.tag { font-size: 24rpx; padding: 4rpx 12rpx; border-radius: 6rpx; }
+.wuxing-tag { background: #eff6ff; color: #1e40af; }
+.tone-tag { background: #f0fdf4; color: #166534; }
+
+/* 付费横幅 */
+.pay-banner { background: linear-gradient(135deg, #fff8e6, #fef3c7); border: 2rpx solid #f59e0b; border-radius: 16rpx; padding: 24rpx; margin: 16rpx 0; text-align: center; }
+.pay-title { font-size: 32rpx; font-weight: 600; color: #92400e; margin-bottom: 8rpx; }
+.pay-desc { font-size: 26rpx; color: #a16207; margin-bottom: 16rpx; }
+.bottom-banner { margin-top: 32rpx; }
+.btn-pay { background: #f59e0b; color: #fff; font-weight: 600; border-radius: 12rpx; text-align: center; padding: 20rpx 0; font-size: 32rpx; }
+.btn-pay-hover { opacity: 0.85; }
+
+/* 下载按钮 */
+.download-bar { margin-top: 32rpx; text-align: center; }
+.btn-download { display: inline-block; background: #8b4513; color: #fff; padding: 20rpx 48rpx; border-radius: 12rpx; font-size: 30rpx; }
+.btn-download-hover { opacity: 0.85; }

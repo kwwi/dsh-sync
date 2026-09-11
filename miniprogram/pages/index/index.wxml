@@ -1,0 +1,48 @@
+<!-- 隐私弹窗 -->
+<view class="privacy-modal" wx:if="{{showPrivacy}}">
+  <view class="privacy-mask" catchtap="handleRejectPrivacy"></view>
+  <view class="privacy-dialog">
+    <view class="privacy-title">隐私政策</view>
+    <view class="privacy-body">
+      <text>智能起名服务需要收集以下信息用于起名推算：</text>
+      <text>· 姓氏、性别、出生日期、出生地点</text>
+      <text>· 微信头像、昵称（用于登录标识）</text>
+      <text>· 上述信息仅用于八字排盘和典籍起名，不会用于其他用途。</text>
+      <text>· 详细隐私政策请点击下方链接查看。</text>
+    </view>
+    <view class="privacy-link" bindtap="handleOpenPrivacy">
+      《隐私政策》
+    </view>
+    <view class="privacy-actions">
+      <view class="privacy-btn cancel" bindtap="handleRejectPrivacy" hover-class="privacy-btn-hover">拒绝</view>
+      <view class="privacy-btn agree" bindtap="handleAgreePrivacy" hover-class="privacy-btn-hover">同意</view>
+    </view>
+  </view>
+</view>
+
+<view class="card">
+  <view class="title">智能起名</view>
+  <view class="disclaimer">本服务基于传统文化与经典文献，仅供文化学习与家庭参考，不构成命理预测。</view>
+  <view class="btn-primary" bindtap="goInput" hover-class="btn-primary-hover">开始起名</view>
+</view>
+
+<!-- 历史报告 -->
+<view class="card" wx:if="{{history.length}}">
+  <view class="title">历史报告</view>
+  <view class="history-hint">报告保存3天，过期自动删除</view>
+  <view wx:for="{{history}}" wx:key="id" class="history-item" bindtap="goReport" data-id="{{item.id}}">
+    <view class="history-left">
+      <view class="history-name">{{item.surname}}姓 · {{item.first_name || '起名报告'}}</view>
+      <view class="history-meta">{{item.birth_date}} · {{item.candidate_count}}个备选名</view>
+    </view>
+    <view class="history-right">
+      <view wx:if="{{item.paid}}" class="history-badge paid">已解锁</view>
+      <view wx:else class="history-badge preview">预览</view>
+    </view>
+  </view>
+</view>
+
+<!-- 无历史提示 -->
+<view class="card" wx:elif="{{!loading}}">
+  <view class="empty-hint">还没有报告，快去起名吧</view>
+</view>

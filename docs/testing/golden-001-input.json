@@ -1,0 +1,93 @@
+{
+  "case_id": "GOLDEN-001",
+  "description": "范本 quming.txt 原例：1988-01-12 申时 男，姓侯",
+  "input": {
+    "surname": "侯",
+    "gender": "male",
+    "birth_place": {
+      "province": "贵州省",
+      "city": "毕节市",
+      "district": "黔西县",
+      "longitude": 106.03,
+      "latitude": 27.01
+    },
+    "birth_datetime": {
+      "gregorian": "1988-01-12T17:55:00+08:00",
+      "timezone": "Asia/Shanghai"
+    },
+    "preferences": {
+      "name_length": "double",
+      "style_tags": ["儒雅", "大气"],
+      "wuxing_strategy": "strict",
+      "avoid_chars": [],
+      "generation_char": null
+    },
+    "output_count": 3
+  },
+  "expected": {
+    "lunar": {
+      "year": "丁卯",
+      "month": "十一月",
+      "day": "廿三",
+      "hour": "申时"
+    },
+    "pillars": {
+      "year": "丁卯",
+      "month": "癸丑",
+      "day": "丙寅",
+      "hour": "丙申"
+    },
+    "true_solar_time": {
+      "approximate": "1988-01-12T16:50:00+08:00",
+      "tolerance_minutes": 2
+    },
+    "element_counts": {
+      "wood": 2,
+      "fire": 4,
+      "earth": 3,
+      "metal": 2,
+      "water": 3
+    },
+    "season_strength": {
+      "wood": "囚",
+      "fire": "休",
+      "earth": "旺",
+      "metal": "相",
+      "water": "死"
+    },
+    "relations": {
+      "clash": ["寅申"]
+    },
+    "day_master": {
+      "stem": "丙",
+      "element": "fire",
+      "strength": "平和"
+    },
+    "xiyongshen": {
+      "primary": ["火"],
+      "secondary": ["木"]
+    },
+    "vernacular_must_include": [
+      "五行不缺",
+      "火",
+      "木"
+    ]
+  },
+  "reference_names": [
+    {
+      "full_name": "侯明悠",
+      "citation": "中庸",
+      "wuxing": "火"
+    },
+    {
+      "full_name": "侯景风",
+      "citation": "列子",
+      "wuxing": ["火", "木"]
+    },
+    {
+      "full_name": "侯庭奕",
+      "citation": "成语：门庭赫奕",
+      "wuxing": ["土", "火"]
+    }
+  ]
+}

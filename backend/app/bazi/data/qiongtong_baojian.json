@@ -1,0 +1,2182 @@
+{
+  "甲": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "甲日干子月，寒木向阳，丙火调候。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "甲日干丑月，天寒地冻，寒木向阳，宜丙丁火暖局。"
+    },
+    "寅": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "甲日干寅月，春木喜水润。"
+    },
+    "卯": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "甲日干卯月，春木喜水润。"
+    },
+    "辰": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干辰月，土旺木折，水润。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干巳月，夏木宜水润。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干午月，夏木宜水润。"
+    },
+    "未": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干未月，土旺木折，水润。"
+    },
+    "申": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干申月，秋金克木，水化金生木。"
+    },
+    "酉": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干酉月，秋金克木，水化金生木。"
+    },
+    "戌": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "甲日干戌月，土旺木折，水润。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "甲日干亥月，寒木向阳，丙火调候。"
+    }
+  },
+  "乙": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "乙日干子月，寒木向阳，丙火调候。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "乙日干丑月，天寒地冻，寒木向阳，宜丙丁火暖局。"
+    },
+    "寅": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "乙日干寅月，春木喜水润。"
+    },
+    "卯": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "乙日干卯月，春木喜水润。"
+    },
+    "辰": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干辰月，土旺木折，水润。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干巳月，夏木宜水润。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干午月，夏木宜水润。"
+    },
+    "未": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干未月，土旺木折，水润。"
+    },
+    "申": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干申月，秋金克木，水化金生木。"
+    },
+    "酉": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干酉月，秋金克木，水化金生木。"
+    },
+    "戌": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "乙日干戌月，土旺木折，水润。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "乙日干亥月，寒木向阳，丙火调候。"
+    }
+  },
+  "丙": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干子月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干丑月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "寅": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "丙日干寅月，春火渐旺，木助。"
+    },
+    "卯": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "丙日干卯月，春火渐旺，木助。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干辰月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "丙日干巳月，夏火宜壬水调候。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "丙日干午月，夏火宜壬水调候。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干未月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "申": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "丙日干申月，秋金克木，木火并用。"
+    },
+    "酉": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "丙日干酉月，秋金克木，木火并用。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干戌月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丙日干亥月，冬日火弱，宜丙火甲木调候暖局。"
+    }
+  },
+  "丁": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干子月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干丑月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "寅": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "丁日干寅月，春火渐旺，木助。"
+    },
+    "卯": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "丁日干卯月，春火渐旺，木助。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干辰月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "丁日干巳月，夏火宜壬水调候。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "丁日干午月，夏火宜壬水调候。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干未月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "申": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "丁日干申月，秋金克木，木火并用。"
+    },
+    "酉": {
+      "primary": [
+        "木"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "甲",
+        "乙",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "丁日干酉月，秋金克木，木火并用。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干戌月，冬日火弱，宜丙火甲木调候暖局。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "木"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "丁日干亥月，冬日火弱，宜丙火甲木调候暖局。"
+    }
+  },
+  "戊": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干子月，寒土宜火暖。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干丑月，土旺宜火生金泄。"
+    },
+    "寅": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "戊日干寅月，春土虚湿宜火。"
+    },
+    "卯": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "戊日干卯月，春土虚湿宜火。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干辰月，土旺宜火生金泄。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "戊日干巳月，夏土燥，宜水润。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "戊日干午月，夏土燥，宜水润。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干未月，土旺宜火生金泄。"
+    },
+    "申": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干申月，秋土渐旺。"
+    },
+    "酉": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干酉月，秋土渐旺。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干戌月，土旺宜火生金泄。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "戊日干亥月，寒土宜火暖。"
+    }
+  },
+  "己": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干子月，寒土宜火暖。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干丑月，土旺宜火生金泄。"
+    },
+    "寅": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "己日干寅月，春土虚湿宜火。"
+    },
+    "卯": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "甲",
+        "乙"
+      ],
+      "classical_note": "己日干卯月，春土虚湿宜火。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干辰月，土旺宜火生金泄。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "己日干巳月，夏土燥，宜水润。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "己日干午月，夏土燥，宜水润。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干未月，土旺宜火生金泄。"
+    },
+    "申": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干申月，秋土渐旺。"
+    },
+    "酉": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干酉月，秋土渐旺。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干戌月，土旺宜火生金泄。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "木"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "己日干亥月，寒土宜火暖。"
+    }
+  },
+  "庚": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干子月，金寒宜火炼。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干丑月，土旺生金。"
+    },
+    "寅": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "庚日干寅月，春金尚寒，土生金。"
+    },
+    "卯": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "庚日干卯月，春金尚寒，土生金。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干辰月，土旺生金。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干巳月，夏金宜水淬炼。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干午月，夏金宜水淬炼。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干未月，土旺生金。"
+    },
+    "申": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "庚日干申月，秋金当令，土水泄秀。"
+    },
+    "酉": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "庚日干酉月，秋金当令，土水泄秀。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干戌月，土旺生金。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "庚日干亥月，金寒宜火炼。"
+    }
+  },
+  "辛": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干子月，金寒宜火炼。"
+    },
+    "丑": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干丑月，土旺生金。"
+    },
+    "寅": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "辛日干寅月，春金尚寒，土生金。"
+    },
+    "卯": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "辛日干卯月，春金尚寒，土生金。"
+    },
+    "辰": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干辰月，土旺生金。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干巳月，夏金宜水淬炼。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干午月，夏金宜水淬炼。"
+    },
+    "未": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干未月，土旺生金。"
+    },
+    "申": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "辛日干申月，秋金当令，土水泄秀。"
+    },
+    "酉": {
+      "primary": [
+        "土"
+      ],
+      "secondary": [
+        "水"
+      ],
+      "avoid": [
+        "火"
+      ],
+      "stems_needed": [
+        "戊",
+        "己",
+        "壬",
+        "癸"
+      ],
+      "classical_note": "辛日干酉月，秋金当令，土水泄秀。"
+    },
+    "戌": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干戌月，土旺生金。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "水"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "辛日干亥月，金寒宜火炼。"
+    }
+  },
+  "壬": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干子月，水旺天寒，火土调候。"
+    },
+    "丑": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "壬日干丑月，土旺克水，金泄土。"
+    },
+    "寅": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干寅月，春水喜金源。"
+    },
+    "卯": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干卯月，春水喜金源。"
+    },
+    "辰": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "壬日干辰月，土旺克水，金泄土。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "壬日干巳月，夏水防涸，金源生水。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "壬日干午月，夏水防涸，金源生水。"
+    },
+    "未": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "壬日干未月，土旺克水，金泄土。"
+    },
+    "申": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干申月，秋水喜金源。"
+    },
+    "酉": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干酉月，秋水喜金源。"
+    },
+    "戌": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "壬日干戌月，土旺克水，金泄土。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "壬日干亥月，水旺天寒，火土调候。"
+    }
+  },
+  "癸": {
+    "子": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干子月，水旺天寒，火土调候。"
+    },
+    "丑": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "癸日干丑月，土旺克水，金泄土。"
+    },
+    "寅": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干寅月，春水喜金源。"
+    },
+    "卯": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干卯月，春水喜金源。"
+    },
+    "辰": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "癸日干辰月，土旺克水，金泄土。"
+    },
+    "巳": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "癸日干巳月，夏水防涸，金源生水。"
+    },
+    "午": {
+      "primary": [
+        "水"
+      ],
+      "secondary": [
+        "金"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "壬",
+        "癸",
+        "庚",
+        "辛"
+      ],
+      "classical_note": "癸日干午月，夏水防涸，金源生水。"
+    },
+    "未": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "癸日干未月，土旺克水，金泄土。"
+    },
+    "申": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干申月，秋水喜金源。"
+    },
+    "酉": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干酉月，秋水喜金源。"
+    },
+    "戌": {
+      "primary": [
+        "金"
+      ],
+      "secondary": [
+        "火"
+      ],
+      "avoid": [
+        "土"
+      ],
+      "stems_needed": [
+        "庚",
+        "辛",
+        "丙",
+        "丁"
+      ],
+      "classical_note": "癸日干戌月，土旺克水，金泄土。"
+    },
+    "亥": {
+      "primary": [
+        "火"
+      ],
+      "secondary": [
+        "土"
+      ],
+      "avoid": [
+        "金"
+      ],
+      "stems_needed": [
+        "丙",
+        "丁",
+        "戊",
+        "己"
+      ],
+      "classical_note": "癸日干亥月，水旺天寒，火土调候。"
+    }
+  }
+}

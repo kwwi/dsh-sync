@@ -1,0 +1,28 @@
+.title { font-size: 40rpx; font-weight: bold; margin-bottom: 16rpx; }
+
+/* 隐私弹窗 */
+.privacy-modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 9999; }
+.privacy-mask { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); }
+.privacy-dialog { position: absolute; left: 10%; right: 10%; top: 20%; background: #fff; border-radius: 16rpx; padding: 40rpx 32rpx; }
+.privacy-title { font-size: 36rpx; font-weight: bold; text-align: center; margin-bottom: 24rpx; }
+.privacy-body { font-size: 28rpx; color: #333; line-height: 48rpx; margin-bottom: 16rpx; }
+.privacy-body text { display: block; margin-bottom: 8rpx; }
+.privacy-link { text-align: center; color: #576b95; font-size: 28rpx; padding: 12rpx 0; margin-bottom: 20rpx; }
+.privacy-actions { display: flex; gap: 20rpx; }
+.privacy-btn { flex: 1; height: 80rpx; line-height: 80rpx; border-radius: 12rpx; font-size: 30rpx; text-align: center; }
+.privacy-btn.cancel { background: #f5f5f5; color: #666; }
+.privacy-btn.agree { background: #8b4513; color: #fff; }
+.privacy-btn-hover { opacity: 0.8; }
+
+/* 历史报告 */
+.history-hint { font-size: 24rpx; color: #999; margin-bottom: 16rpx; }
+.history-item { display: flex; align-items: center; justify-content: space-between; padding: 20rpx 16rpx; border-bottom: 1rpx solid #f5f0e8; }
+.history-item:last-child { border-bottom: none; }
+.history-left { flex: 1; }
+.history-name { font-size: 30rpx; font-weight: 500; color: #1a1a1a; margin-bottom: 4rpx; }
+.history-meta { font-size: 24rpx; color: #999; }
+.history-right { flex-shrink: 0; margin-left: 16rpx; }
+.history-badge { font-size: 22rpx; padding: 6rpx 16rpx; border-radius: 20rpx; }
+.history-badge.paid { background: #f0fdf4; color: #166534; }
+.history-badge.preview { background: #fef3c7; color: #92400e; }
+.empty-hint { text-align: center; color: #999; font-size: 28rpx; padding: 40rpx 0; }

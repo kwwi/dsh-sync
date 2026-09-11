@@ -1,0 +1,46 @@
+[project]
+name = "name-backend"
+version = "0.1.0"
+description = "智能起名服务后端"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "pydantic>=2.9.0",
+    "pydantic-settings>=2.6.0",
+    "lunar-python>=1.4.0",
+    "pypinyin>=0.53.0",
+    "sqlalchemy>=2.0.36",
+    "asyncpg>=0.30.0",
+    "pgvector>=0.3.6",
+    "aiosqlite>=0.20.0",
+    "asyncmy>=0.2.9",
+    "aiomysql>=0.2.0",
+    "greenlet>=3.0.0",
+    "httpx>=0.28.0",
+    "openai>=1.55.0",
+    "python-multipart>=0.0.12",
+    "aiofiles>=24.1.0",
+    "pyyaml>=6.0.2",
+    "zhconv>=1.4.3",
+    "fpdf2>=2.8.0",
+    "cryptography>=43.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.24.0",
+    "httpx>=0.28.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

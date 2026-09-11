@@ -1,0 +1,40 @@
+<view class="card">
+  <view class="title">填写信息</view>
+  <view class="field"><text>姓氏</text><input value="{{surname}}" placeholder="请输入姓氏" bindinput="onSurname" /></view>
+  <view class="field"><text>性别</text><picker range="{{genders}}" value="{{genderIndex}}" bindchange="onGender"><view>{{genders[genderIndex] || '请选择性别'}}</view></picker></view>
+  <view class="field"><text>出生日期</text><picker mode="date" value="{{date}}" end="{{today}}" bindchange="onDate"><view>{{date || '请选择日期'}}</view></picker></view>
+  <view class="field"><text>出生时间</text><picker mode="time" value="{{time}}" bindchange="onTime"><view>{{time || '请选择时间'}}</view></picker></view>
+  <view class="field region-block">
+    <text>出生地</text>
+    <picker mode="selector" range="{{provinces}}" range-key="name" value="{{provinceIndex}}" bindchange="onProvince">
+      <view class="picker-line">{{provinceIndex >= 0 ? provinces[provinceIndex].name : '请选择省份'}}</view>
+    </picker>
+    <picker wx:if="{{cities.length}}" mode="selector" range="{{cities}}" range-key="name" value="{{cityIndex}}" bindchange="onCity">
+      <view class="picker-line">{{cityIndex >= 0 ? cities[cityIndex].name : '请选择城市'}}</view>
+    </picker>
+    <picker wx:if="{{districts.length}}" mode="selector" range="{{districts}}" range-key="name" value="{{districtIndex}}" bindchange="onDistrict">
+      <view class="picker-line">{{districtIndex >= 0 ? districts[districtIndex].name : (cities.length ? '请选择区/县' : '请选择区')}}</view>
+    </picker>
+    <view class="region-hint">{{regionLabel}}</view>
+  </view>
+  <view class="btn-primary {{loading ? 'btn-disabled' : ''}}" bindtap="submit" hover-class="{{loading ? '' : 'btn-primary-hover'}}">
+    <text wx:if="{{loading}}" class="btn-loading-icon">⏳</text>{{loading ? '正在生成...' : '生成报告'}}
+  </view>
+</view>
+
+<view wx:if="{{progressVisible}}" class="progress-mask">
+  <view class="progress-box">
+    <view class="progress-heading">正在推算命理</view>
+    <block wx:for="{{progressSteps}}" wx:key="id">
+      <view class="progress-step-row {{item.state}}">
+        <view class="progress-dot" />
+        <text>{{item.label}}</text>
+      </view>
+    </block>
+    <view class="progress-detail">
+      <view class="progress-step-title">{{progressTitle}}</view>
+      <view class="progress-summary">{{progressDisplay}}<text class="progress-cursor">|</text></view>
+    </view>
+    <view class="progress-hint">步骤 {{progressIndex}} / 5<text wx:if="{{progressIndex === 4}}"> · 典籍起名可能需要稍候</text></view>
+  </view>
+</view>

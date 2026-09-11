@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/input/input",
+    "pages/report/report"
+  ],
+  "window": {
+    "navigationBarTitleText": "智能起名",
+    "navigationBarBackgroundColor": "#8b4513",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f0e8"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseAddress"
+  ],
+  "__usePrivacyCheck__": true
+}

@@ -1,0 +1,31 @@
+# 敏感文件 —— 绝对不能打包进镜像！
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# 数据文件（运行时挂载或云存储）
+data/*.db
+data/*.db-journal
+data/*.db-wal
+# 保留种子数据
+!data/seed_data.sql
+
+# 开发工具
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# 测试
+tests/
+test_report.pdf
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store

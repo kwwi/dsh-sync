@@ -1,0 +1,85 @@
+<view class="card" wx:if="{{report}}">
+  <view class="title">智能起名报告</view>
+  <view class="disclaimer">【温馨提示】本报告基于传统文化与经典文献生成，仅供参考，请结合家庭意愿选用。</view>
+
+  <!-- 付费提示 -->
+  <view wx:if="{{needPayment && !full}}" class="pay-banner">
+    <view class="pay-title">🔒 完整报告需解锁</view>
+    <view class="pay-desc">解锁后查看全部备选名字、典籍出处和详细分析</view>
+    <view class="btn-pay" bindtap="handleUnlock" hover-class="btn-pay-hover">解锁完整报告</view>
+  </view>
+
+  <!-- 基本信息 -->
+  <view class="section">基本信息</view>
+  <view class="info-list">
+    <view wx:for="{{birthLines}}" wx:key="label" class="info-row">
+      <text class="info-label">{{item.label}}</text>
+      <text class="info-value">{{item.value}}</text>
+    </view>
+  </view>
+
+  <!-- 八字命盘（仅完整报告） -->
+  <block wx:if="{{full && full.bazi_chart_text}}">
+    <view class="section">八字命盘</view>
+    <text class="pre">{{full.bazi_chart_text}}</text>
+  </block>
+
+  <!-- 五行分析（仅完整报告） -->
+  <block wx:if="{{full && full.wuxing_analysis}}">
+    <view class="section">五行分析</view>
+    <text class="pre">{{full.wuxing_analysis}}</text>
+    <!-- 专业解读（折叠） -->
+    <view wx:if="{{full.fate_analysis && full.fate_analysis.professional}}" class="details-box">
+      <view class="details-summary" bindtap="toggleProfessional">
+        <text>{{showProfessional ? '▾' : '▸'}} 专业解读</text>
+      </view>
+      <text wx:if="{{showProfessional}}" class="pre">{{full.fate_analysis.professional}}</text>
+    </view>
+  </block>
+
+  <!-- 命格简析 -->
+  <view class="section">命格简析</view>
+  <view class="fate-text">{{fateText}}</view>
+
+  <!-- 取名建议 -->
+  <view wx:if="{{namingAdviceText}}" class="section">取名建议</view>
+  <text wx:if="{{namingAdviceText}}" class="pre">{{namingAdviceText}}</text>
+
+  <!-- 备选名字 -->
+  <view class="section">备选名字</view>
+  <block wx:for="{{candidates}}" wx:key="full_name">
+    <view class="name-card">
+      <view class="name-header">
+        <text class="name-rank">{{index + 1}}</text>
+        <text class="name-text">{{item.full_name}}</text>
+      </view>
+      <text wx:if="{{item.citation_explanation}}" class="cite">{{item.citation_explanation}}</text>
+      <text wx:if="{{!item.citation_explanation && item.citation_book}}" class="cite">出自《{{item.citation_book}}》：{{item.citation_text}}</text>
+      <text class="meaning">{{item.meaning}}</text>
+      <view class="name-tags">
+        <text wx:if="{{item.wuxing_label}}" class="tag wuxing-tag">[五行] {{item.wuxing_label}}</text>
+        <text wx:if="{{item.tone_comment}}" class="tag tone-tag">[音韵] {{item.tone_comment}}</text>
+      </view>
+    </view>
+  </block>
+
+  <!-- 下载按钮（完整报告） -->
+  <view wx:if="{{full}}" class="download-bar">
+    <view class="btn-download" bindtap="handleDownload" hover-class="btn-download-hover">
+      <text>📄 下载 PDF 报告</text>
+    </view>
+  </view>
+
+  <!-- 底部解锁按钮 -->
+  <view wx:if="{{needPayment && !full}}" class="pay-banner bottom-banner">
+    <view class="pay-desc">以上为部分预览，解锁可查看全部名字与完整分析</view>
+    <view class="btn-pay" bindtap="handleUnlock" hover-class="btn-pay-hover">解锁完整报告</view>
+  </view>
+</view>
+
+<!-- 错误状态 -->
+<view class="card" wx:elif="{{errorMsg}}">
+  <view class="title">加载失败</view>
+  <view class="disclaimer">{{errorMsg}}</view>
+  <view class="btn-primary" bindtap="goBack" hover-class="btn-primary-hover">返回</view>
+</view>

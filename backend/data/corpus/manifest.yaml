@@ -1,0 +1,39 @@
+# P0 公版语料采集配置
+# 实际抓取逻辑见 app/corpus/crawler/sources.py
+
+version: 1
+copyright: public_domain
+sources:
+  - id: shijing
+    book: 诗经
+    mirror: chinese-poetry/chinese-poetry
+  - id: chuci
+    book: 楚辞
+    mirror: chinese-poetry/chinese-poetry
+  - id: lunyu
+    book: 论语
+    mirror: chinese-poetry/chinese-poetry
+  - id: mengzi
+    book: 孟子
+    mirror: chinese-poetry/chinese-poetry
+  - id: zhongyong
+    book: 中庸
+    mirror: chinese-poetry/chinese-poetry
+  - id: daxue
+    book: 大学
+    mirror: chinese-poetry/chinese-poetry
+  - id: daodejing
+    book: 道德经
+    mirror: zhaoolee/daodejing
+  - id: tangshi300
+    book: 唐诗三百首
+    mirror: chinese-poetry/chinese-poetry
+  - id: songci300
+    book: 宋词三百首
+    mirror: chinese-poetry/chinese-poetry
+
+# 待扩展（需稳定公网 JSON 源）
+pending:
+  - 尚书
+  - 周易
+  - 列子
