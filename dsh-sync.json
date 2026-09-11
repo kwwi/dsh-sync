@@ -1,6 +1,12 @@
 {
   "remote": "git@github.com:kwwi/dsh-sync.git",
   "branch": "main",
-  "mode": "manual",
+  "mode": "auto",
+  "enabled": true,
+  "autoPullOnStart": true,
+  "autoPushOnExit": true,
+  "intervalSeconds": 300,
+  "eventDebounceSeconds": 15,
+  "minCommitIntervalSeconds": 120,
   "commitMessage": "dsh-sync-plugin: auto snapshot"
 }
