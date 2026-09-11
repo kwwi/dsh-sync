@@ -1,0 +1,8 @@
+packages:
+  - .
+
+nodeLinker: hoisted
+autoInstallPeers: false
+minimumReleaseAgeExclude:
+  - '@liustack/modlens@3.25.0'
+  - '@dsh-market/plugin@0.3.3'

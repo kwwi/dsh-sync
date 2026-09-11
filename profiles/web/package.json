@@ -1,0 +1,20 @@
+{
+  "name": "dsh-profile-web",
+  "private": true,
+  "dependencies": {
+    "@dsh-market/plugin": "0.3.3",
+    "@liustack/modlens": "3.25.0",
+    "@liustack/modsearch": "5.9.1"
+  },
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "@liustack/modlens",
+        "@liustack/modsearch",
+        "@dsh-market/plugin"
+      ]
+    }
+  }
+}

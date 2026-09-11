@@ -1,0 +1,6 @@
+{
+  "remote": "git@github.com:kwwi/dsh-sync.git",
+  "branch": "main",
+  "mode": "manual",
+  "commitMessage": "dsh-sync-plugin: auto snapshot"
+}

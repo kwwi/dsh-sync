@@ -1,0 +1,28 @@
+ui-onboarding:
+  welcomeNoticeVersion: 2026-08-13.1
+agent-default-model:
+  provider: deepseek-official
+  model: deepseek-v4-flash
+  reasoningEffort: max
+agent-presets:
+  default: cordis
+skin-custom-theme:
+  applied: false
+pet:
+  petId: whale-girl-refined
+  visible: true
+  size: 160
+  right: 28
+  bottom: 14
+dsh-desktop:
+  mode: advanced
+  macosMaterial: transparent
+  windowsMaterial: acrylic
+  openBrowser: false
+  networkExposure: loopback
+dsh-desktop-notifications:
+  enabled: true
+  notifyOnTurnCompletion: true
+  notifyOnTurnFailure: true
+  notifyOnJobCompletion: true
+  notifyOnJobFailure: true

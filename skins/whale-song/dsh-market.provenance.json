@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "source": "https://dsh-market.com",
+  "kind": "skin",
+  "id": "whale-song",
+  "installedAt": "2026-08-26T09:34:57.503Z",
+  "files": {
+    "assets/whale-art.webp": "9b74076df6da331a69875b9dcee6233193f1ac6254694fd429e179cefaf5d95d",
+    "assets/whale-icon.png": "d1e6058d19b04817a623dc6e3a99405c70defaf412e9296edf7dbe2032ff7cbe",
+    "hooks.mjs": "beb0f140dab1abb40bda52ad2ae1970feb761e2184e64e1d5810fab7c32dfff3",
+    "patches.css": "ef9f430bc7ec045e7aa7e19ae0dc6fa9c8178d28878966dee0044f0bb38b8f45",
+    "preview/dark.jpg": "5e0ab6e963e511939e64d0f3ae0ad62b0f470a411b60137cea4ee3edcbf0f566",
+    "preview/light.jpg": "4983cfde68c43d202bbf5b5811df6c1b96e75db58dd0cea73cbb54b0b44eaa94",
+    "skin.css": "8df9338e52578b89706dfbc5e772a9968cdbd05194586540fa4ac6b04dc23da1",
+    "skin.json": "fa53ef0c536e672fad0448b199f784d22ee7f1a2dd4da6a06c45836800d33331"
+  }
+}

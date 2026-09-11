@@ -1,0 +1,87 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: false
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@dsh-market/plugin':
+        specifier: 0.3.3
+        version: 0.3.3
+      '@liustack/modlens':
+        specifier: 3.25.0
+        version: 3.25.0
+      '@liustack/modsearch':
+        specifier: 5.9.1
+        version: 5.9.1
+
+packages:
+
+  '@dsh-market/core@0.3.1':
+    resolution: {integrity: sha512-MMaPFKT/Rqj9lq7XC2EmPQxd6OTGH51pnZp/UTya+aizuJpeO4iAiVmG9QMoIIq5fZAGYTbf6vPGTi40RrpNvA==}
+
+  '@dsh-market/plugin@0.3.3':
+    resolution: {integrity: sha512-MIBUhqTpFwD1VaBTultQyulffxqevCH2wio9ssngpgyt2ehYqNhDU+KhvtzRozJAYthHY1Z6jl7GY3NErBSTww==}
+
+  '@dsh-market/schema@0.1.1':
+    resolution: {integrity: sha512-6z7NWXW15RCiKqyVM7DGAYdHU6Ecr7nG3YEdxXVNsw/+J2/7iJIHEZzDBbTiDUOUAuJCEQsRbtHYwjaZWXexxA==}
+
+  '@liustack/modlens@3.25.0':
+    resolution: {integrity: sha512-ul6hysW7H0ljFqSRAz/Q07216wJGs8AFLULKP83yx4JElrJ5Io06JHd7X4MzhgmLRga4mEOGdrRJ+4Wv1qNS6w==}
+    engines: {node: '>=22.19'}
+    hasBin: true
+
+  '@liustack/modsearch@5.9.1':
+    resolution: {integrity: sha512-a7X2NcFIBFq3VLWjxPcMmTX4iPjcd0g1lZ1uFlxI9emJqffF59QVxPODgXHmDn/77yTs9zVfU55XdgxSHO84Ug==}
+    engines: {node: '>=22.13'}
+    hasBin: true
+
+  commander@13.1.0:
+    resolution: {integrity: sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw==}
+    engines: {node: '>=18'}
+
+  fuse.js@7.5.0:
+    resolution: {integrity: sha512-sQtrEfA+ez/3G0cCZecF70oqpCRttCexYUG4mUrtWL49ULUzUyxokt5kyqwtKzj1270RaKih+hcP3qLcumccow==}
+    engines: {node: '>=10'}
+
+  undici@7.29.0:
+    resolution: {integrity: sha512-IDxfleLmmbSskfWSUATiN1nfn2rDuvnMOqb5CWR92iIfojA0Ud+ulOAAEQ57LPr9rWmsreUyf5lwyao+7GNNVw==}
+    engines: {node: '>=20.18.1'}
+
+  undici@8.10.0:
+    resolution: {integrity: sha512-HvltHd7avK13QIw/oLe4qoOLyoVSoafqJ2jYOrtMRBkbYT31eiBQ8O0ehRKZiEZCMEyLFQNIADpgCWC5fALvYQ==}
+    engines: {node: '>=22.19.0'}
+
+snapshots:
+
+  '@dsh-market/core@0.3.1':
+    dependencies:
+      '@dsh-market/schema': 0.1.1
+      fuse.js: 7.5.0
+
+  '@dsh-market/plugin@0.3.3':
+    dependencies:
+      '@dsh-market/core': 0.3.1
+
+  '@dsh-market/schema@0.1.1': {}
+
+  '@liustack/modlens@3.25.0':
+    dependencies:
+      commander: 13.1.0
+      undici: 8.10.0
+
+  '@liustack/modsearch@5.9.1':
+    dependencies:
+      commander: 13.1.0
+      undici: 7.29.0
+
+  commander@13.1.0: {}
+
+  fuse.js@7.5.0: {}
+
+  undici@7.29.0: {}
+
+  undici@8.10.0: {}

@@ -1,0 +1,40 @@
+{
+  "unit": {
+    "name": "workspace",
+    "version": 2
+  },
+  "global": {
+    "initialized": true,
+    "workspaceIds": [
+      "1245b026-20d0-4230-8278-c537fc95af70",
+      "4708938d-3ec5-42e3-952b-0fc91fe36682"
+    ],
+    "archivedSessionIds": []
+  },
+  "tables": {
+    "workspaces": {
+      "4708938d-3ec5-42e3-952b-0fc91fe36682": {
+        "path": "/Users/houyuan/Documents/name",
+        "title": "name",
+        "sessionIds": [
+          "session-a2b33191-56b7-46bd-bb8d-32d8739aa8e7",
+          "session-be85ba99-cdf6-48c8-ba6e-7f05d956bce0",
+          "session-19e51e2c-6bfe-4911-a915-6edf53b2d24c"
+        ],
+        "createdAt": "2026-08-14T01:08:49.259Z",
+        "updatedAt": "2026-08-26T08:56:35.330Z"
+      },
+      "1245b026-20d0-4230-8278-c537fc95af70": {
+        "path": "/Users/houyuan/Documents/mywork",
+        "title": "mywork",
+        "sessionIds": [
+          "session-d1a2b963-e429-4f7f-a9c8-35f5c5f8d974",
+          "session-9cbe8750-5535-45e7-bbb8-d2fcfae5c4ff",
+          "session-d388a3f7-42f1-489c-8508-5b339e4b5aa9"
+        ],
+        "createdAt": "2026-08-26T09:56:21.477Z",
+        "updatedAt": "2026-09-07T07:18:28.816Z"
+      }
+    }
+  }
+}
