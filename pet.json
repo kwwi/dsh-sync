@@ -2,18 +2,18 @@
   "petId": "whale-girl-refined",
   "names": {},
   "affinity": {
-    "points": 53,
+    "points": 54,
     "lastPetAt": 1787738231541,
     "lastFeedAt": 0,
     "pets": 4,
     "feeds": 0,
     "petRejects": 5,
     "feedRejects": 0,
-    "turns": 49
+    "turns": 50
   },
   "treats": {
     "treats": 20,
-    "lastTreatGrantAt": 1789356997495,
+    "lastTreatGrantAt": 1789374997495,
     "turnsAtLastTreatGrant": 30
   },
   "display": {
