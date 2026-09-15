@@ -1,7 +1,12 @@
 {
-  "p1": [
+  "title": "Chapter 1 - What Is",
+  "composer": "",
+  "key": "1=bB",
+  "time": "4/4",
+  "tempo": 84,
+  "lines": [
     {
-      "index": 2,
+      "index": "p1-2",
       "measures": [
         {
           "melody": [
@@ -214,7 +219,7 @@
       ]
     },
     {
-      "index": 3,
+      "index": "p1-3",
       "measures": [
         {
           "melody": [
@@ -427,7 +432,7 @@
       ]
     },
     {
-      "index": 4,
+      "index": "p1-4",
       "measures": [
         {
           "melody": [
@@ -640,7 +645,7 @@
       ]
     },
     {
-      "index": 5,
+      "index": "p1-5",
       "measures": [
         {
           "melody": [
@@ -933,7 +938,7 @@
       ]
     },
     {
-      "index": 6,
+      "index": "p1-6",
       "measures": [
         {
           "melody": [
@@ -1106,7 +1111,7 @@
       ]
     },
     {
-      "index": 7,
+      "index": "p1-7",
       "measures": [
         {
           "melody": [
@@ -1247,7 +1252,7 @@
       ]
     },
     {
-      "index": 8,
+      "index": "p1-8",
       "measures": [
         {
           "melody": [
@@ -1395,7 +1400,7 @@
       ]
     },
     {
-      "index": 9,
+      "index": "p1-9",
       "measures": [
         {
           "melody": [
@@ -1645,11 +1650,9 @@
           "chord": null
         }
       ]
-    }
-  ],
-  "p2": [
+    },
     {
-      "index": 1,
+      "index": "p2-1",
       "measures": [
         {
           "melody": [
@@ -1728,7 +1731,7 @@
       ]
     },
     {
-      "index": 2,
+      "index": "p2-2",
       "measures": [
         {
           "melody": [
@@ -1802,7 +1805,7 @@
       ]
     },
     {
-      "index": 3,
+      "index": "p2-3",
       "measures": [
         {
           "melody": [
@@ -1903,7 +1906,7 @@
       ]
     },
     {
-      "index": 4,
+      "index": "p2-4",
       "measures": [
         {
           "melody": [
@@ -2056,7 +2059,7 @@
       ]
     },
     {
-      "index": 5,
+      "index": "p2-5",
       "measures": [
         {
           "melody": [
@@ -2272,7 +2275,7 @@
       ]
     },
     {
-      "index": 6,
+      "index": "p2-6",
       "measures": [
         {
           "melody": [
@@ -2421,7 +2424,7 @@
       ]
     },
     {
-      "index": 7,
+      "index": "p2-7",
       "measures": [
         {
           "melody": [
@@ -2658,7 +2661,7 @@
       ]
     },
     {
-      "index": 8,
+      "index": "p2-8",
       "measures": [
         {
           "melody": [

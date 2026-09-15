@@ -1,0 +1,118 @@
+{
+  "p1": {
+    "2": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L02_clean.png",
+      "band": [
+        204,
+        411
+      ]
+    },
+    "3": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L03_clean.png",
+      "band": [
+        411,
+        639
+      ]
+    },
+    "4": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L04_clean.png",
+      "band": [
+        639,
+        848
+      ]
+    },
+    "5": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L05_clean.png",
+      "band": [
+        848,
+        995
+      ]
+    },
+    "6": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L06_clean.png",
+      "band": [
+        995,
+        1138
+      ]
+    },
+    "7": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L07_clean.png",
+      "band": [
+        1138,
+        1292
+      ]
+    },
+    "8": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L08_clean.png",
+      "band": [
+        1292,
+        1515
+      ]
+    },
+    "9": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p1_L09_clean.png",
+      "band": [
+        1515,
+        1653
+      ]
+    }
+  },
+  "p2": {
+    "1": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L01_clean.png",
+      "band": [
+        185,
+        319
+      ]
+    },
+    "2": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L02_clean.png",
+      "band": [
+        319,
+        426
+      ]
+    },
+    "3": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L03_clean.png",
+      "band": [
+        426,
+        733
+      ]
+    },
+    "4": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L04_clean.png",
+      "band": [
+        733,
+        945
+      ]
+    },
+    "5": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L05_clean.png",
+      "band": [
+        945,
+        1179
+      ]
+    },
+    "6": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L06_clean.png",
+      "band": [
+        1179,
+        1395
+      ]
+    },
+    "7": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L07_clean.png",
+      "band": [
+        1395,
+        1623
+      ]
+    },
+    "8": {
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/cleanlines/p2_L08_clean.png",
+      "band": [
+        1623,
+        2047
+      ]
+    }
+  }
+}

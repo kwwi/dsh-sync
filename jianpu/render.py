@@ -37,16 +37,32 @@ def musicxml_to_svgs(xml_path, page_w_mm=210, page_h_mm=297,
     return [tk.renderToSVG(i + 1) for i in range(n)]
 
 
-def svgs_to_pdf(svgs, out_pdf, page_w_mm=210, page_h_mm=297):
+def svgs_to_pdf(svgs, out_pdf, page_w_mm=210, page_h_mm=297, margin_mm=12):
+    """
+    Place each engraved page on a PDF page.
+
+    svglib keeps Verovio's drawing coordinates, whose origin is not the page
+    origin - the content can start at a negative x, and drawing it at (0, 0)
+    would silently clip the left edge (a centred title loses its first
+    characters). The drawing is therefore fitted and shifted by its own
+    bounding box instead of by its nominal width and height.
+    """
     c = rl_canvas.Canvas(out_pdf, pagesize=(page_w_mm * mm, page_h_mm * mm))
     for svg in svgs:
         drw = svg2rlg(io.StringIO(svg))
         if drw is None:
             continue
-        # svglib keeps verovio's viewBox units; scale to the page
-        sx = (page_w_mm * mm) / drw.width
-        sy = (page_h_mm * mm) / drw.height
-        drw.scale(sx, sy)
+        x1, y1, x2, y2 = drw.getBounds()
+        bw, bh = max(x2 - x1, 1e-6), max(y2 - y1, 1e-6)
+        avail_w = (page_w_mm - 2 * margin_mm) * mm
+        avail_h = (page_h_mm - 2 * margin_mm) * mm
+        s = min(avail_w / bw, avail_h / bh)
+        drw.scale(s, s)
+        x1, y1, x2, y2 = drw.getBounds()
+        # centre horizontally, sit near the top margin
+        dx = margin_mm * mm - x1
+        dy = (page_h_mm - margin_mm) * mm - y2
+        drw.translate(dx, dy)
         renderPDF.draw(drw, c, 0, 0)
         c.showPage()
     c.save()

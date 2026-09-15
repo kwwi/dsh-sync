@@ -1,0 +1,90 @@
+{
+  "p1": {
+    "2": {
+      "1": "NUMBERS: 0 6 1 6 0 6 1 6\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 6",
+      "2": "NUMBERS: 0 5 7 5 0 5 7 5\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5",
+      "3": "NUMBERS: 0 6 1 6 0 6 1 6\nDOTS: none none below none none below none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 4",
+      "4": "Based on the image provided, here is the analysis of the single measure of handwritten jianpu:\n\n**NUMBERS:** 0 5 7 5 0 5 7 5\n**DOTS:** below below below below below below below below\n**UNDERLINES:** 1 1 1 1 1 1 1 1\n**AFTER:** none\n**BASS:** 5"
+    },
+    "3": {
+      "1": "Based on the provided image of the handwritten jianpu measure, here is the step-by-step reading:\n\n1.  **NUMBERS**: Reading the main row of digits from left to right, we have `0`, `6`, `1`, `6`, `3`, `6`, `1`, `6`. The measure ends at the vertical bar line, so we do not include the `0` and `5` to the right.\n2.  **DOTS**: Checking for dots above or below each number:\n    *   `0`: none\n    *   `6`: none\n    *   `1`: none\n    *   `6`: none\n    *   `3`: none\n    *   `6`: none\n    *   `1`: none\n    *   `6`: none\n3.  **UNDERLINES**: Counting the short lines drawn underneath each number:\n    *   `0`: 1 line\n    *   `6`: 1 line\n    *   `1`: 1 line\n    *   `6`: 1 line\n    *   `3`: 1 line\n    *   `6`: 1 line\n    *   `1`: 1 line\n    *   `6`: 1 line\n4.  **AFTER**: There is nothing written between the last number (`6`) and the bar line.\n5.  **BASS**: The lower row contains a single digit `6`.\n\nNUMBERS: 0 6 1 6 3 6 1 6\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 6",
+      "2": "Based on the provided image, here is the analysis of the measure:\n\nNUMBERS: 0 5 7 5 3 5 7 5\nDOTS: none below below below below below below below\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5",
+      "3": "NUMBERS: 0 6 1 6 3 6 1 6\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 4",
+      "4": "NUMBERS: 0 5 7 5 3 5 7 5\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5"
+    },
+    "4": {
+      "1": "NUMBERS: 0 6 1 6 6 1 3 6\nDOTS: none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 6",
+      "2": "NUMBERS: 0 5 7 5 0 7 3 6\nDOTS: none below below below below below none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5",
+      "3": "Based on the provided image, here is the transcription of the measure:\n\nNUMBERS: 0 6 1 6 6 1 3 6\nDOTS: none none below none below none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 4",
+      "4": "NUMBERS: 0 5 7 5 0 7 3 6\nDOTS: none none below below none below none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5"
+    },
+    "5": {
+      "1": "Based on the image provided, here is the transcription of the measure:\n\nNUMBERS: 0 6 1 6 3 6 1 6 6 1 3 6\nDOTS: none none none none none none none none none none none none\nUNDERLINES: 2 2 2 2 2 2 2 2 1 1 1 1\nAFTER: none\nBASS: 6",
+      "2": "Based on the image provided, here is the transcription of the measure:\n\nNUMBERS: 0 5 7 5 3 5 7 5 5 7 3 6\nDOTS: none none none none none none none none none none none none\nUNDERLINES: 2 2 2 2 2 2 2 2 1 1 1 1\nAFTER: none\nBASS: 5",
+      "3": "Based on the image provided, here is the transcription of the measure:\n\nNUMBERS: 0 6 1 6 3 6 1 6 0 1 3 6\nDOTS: none none none none none none none none below none none none\nUNDERLINES: 2 2 2 2 2 2 2 2 1 1 1 1\nAFTER: none\nBASS: 4",
+      "4": "NUMBERS: 0 5 2 5 3 5 2 5 5 2 3 6\nDOTS: none none none none none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5"
+    },
+    "6": {
+      "1": "Based on the rules provided and a strict left-to-right reading of the measure:\n\n1.  **NUMBERS**: The digits written as notes in the main row are `1`, `3`, `2`, `3`, `1`, `3`, `7`, `3`, `6`, `3`, `5`, `3`, and `6`.\n2.  **DOTS**: There are no dots written above or below any of these numbers.\n3.  **UNDERLINES**: The first group of four notes (`1 3 2 3`) has one underline. The next group of four (`1 3 7 3`) has one underline. The next group of four (`6 3 5 3`) has one underline. The final note (`6`) has no underline.\n4.  **AFTER**: The measure ends with the last number `6` before the bar line.\n5.  **BASS**: There is no separate lower row of digits in this measure.\n\nNUMBERS: 1 3 2 3 1 3 7 3 6 3 5 3 6\nDOTS: none none none none none none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1 1 1 1 1 0\nAFTER: none\nBASS: none",
+      "2": "Based on the image provided, here is the analysis of the single measure of handwritten jianpu:\n\n**NUMBERS:** 6 1 2 3 2\n**DOTS:** below below none none none\n**UNDERLINES:** 1 1 1 1 1\n**AFTER:** - - -\n**BASS:** 6",
+      "3": "Based on the visual analysis of the magnified crop, here is the step-by-step reading of the measure:\n\n1.  **Identify the Measure Boundaries**: The vertical bar line on the left separates this measure from the previous one. The measure ends at the next bar line (partially visible on the right).\n2.  **Read the Main Row (NUMBERS)**: Moving left to right, the digits are `1`, `2`, `2`, `4`, `3`.\n3.  **Determine DOTS**: \n    *   The `1` has a dot below it.\n    *   The `2` has a dot below it.\n    *   The second `2` has no dot.\n    *   The `4` has no dot.\n    *   The `3` has no dot.\n4.  **Determine UNDERLINES**:\n    *   The `1` has one underline.\n    *   The `2` has one underline.\n    *   The second `2` has one underline.\n    *   The `4` has one underline.\n    *   The `3` has one underline.\n5.  **Identify AFTER**: Following the last number `3`, there are two dashes (`- -`) before the bar line.\n6.  **Identify BASS**: The lower row contains a single digit `5`.\n\nNUMBERS: 1 2 2 4 3\nDOTS: below below none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - -\nBASS: 5",
+      "4": "NUMBERS: 4 3\nDOTS: none none\nUNDERLINES: 1 1\nAFTER: - -\nBASS: 1 5"
+    },
+    "7": {
+      "1": "Based on the image provided, here is the analysis of the single measure of handwritten jianpu:\n\n**NUMBERS:** 6 1 1 2 3 2\n**DOTS:** below none none none none none\n**UNDERLINES:** 1 1 1 1 1 1\n**AFTER:** - -\n**BASS:** 6",
+      "2": "NUMBERS: 1 2 7 1 6\nDOTS: none none none below none\nUNDERLINES: 1 1 1 1 1\nAFTER: - -\nBASS: 6",
+      "3": "NUMBERS: 3 2 3 1 2 1 2\nDOTS: none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1\nAFTER: -\nBASS: 5 5"
+    },
+    "8": {
+      "1": "NUMBERS: 1 2 1 4 3\nDOTS: below none none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - - -\nBASS: 4",
+      "2": "Based on the image provided, here is the analysis of the single measure of handwritten jianpu:\n\n**NUMBERS:** 3 2 3 1 2 2 1 2\n**DOTS:** none none none none none none none none\n**UNDERLINES:** 1 1 1 1 1 1 1 1\n**AFTER:** -\n**BASS:** 5",
+      "3": "NUMBERS: 1 2 1 6\nDOTS: none none none none\nUNDERLINES: 1 1 1 1\nAFTER: - -\nBASS: 6"
+    },
+    "9": {
+      "1": "NUMBERS: 3 2 3 3 4 3 1 2 1 2 1 7\nDOTS: none none none none none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 5",
+      "2": "NUMBERS: 6 7 1 2 1 7 1 7 6 6 0 1 2\nDOTS: below below below below below below below below below below none none none\nUNDERLINES: 1 1 1 1 2 2 2 2 2 0 1 1 1\nAFTER: none\nBASS: 4 6",
+      "3": "NUMBERS: 0 1 2\nDOTS: none none none\nUNDERLINES: 1 1 1\nAFTER: none\nBASS: 6"
+    }
+  },
+  "p2": {
+    "1": {
+      "1": "NUMBERS: 0 1 2 3 2\nDOTS: none none none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - -\nBASS: 6",
+      "2": "NUMBERS: 1 2 2 4 3\nDOTS: none none none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - -\nBASS: 5",
+      "3": "Based on the provided image, here is the analysis of the measure:\n\nNUMBERS: none\nDOTS: none\nUNDERLINES: none\nAFTER: none\nBASS: none"
+    },
+    "2": {
+      "1": "Based on the image provided, here is the analysis of the measure to the left of the bar line:\n\nNUMBERS: 6 1 1 2 3 2\nDOTS: none none none none none none\nUNDERLINES: 1 1 1 1 1 1\nAFTER: - -\nBASS: 4",
+      "2": "Based on the image provided, here is the analysis of the single measure of handwritten jianpu:\n\n**NUMBERS:** 1 2 1 7 6\n**DOTS:** none none none none below\n**UNDERLINES:** 1 1 1 1 1\n**AFTER:** - -\n**BASS:** 6"
+    },
+    "3": {
+      "1": "Based on the visual analysis of the magnified crop, here is the transcription of the measure strictly from left to right:\n\nNUMBERS: 6 1 1 2 3 2\nDOTS: none none none above above above\nUNDERLINES: 1 1 1 2 2 2\nAFTER: - -\nBASS: 6 4",
+      "2": "NUMBERS: 1 2 2 4 3\nDOTS: none none none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - - -\nBASS: 5 6"
+    },
+    "4": {
+      "1": "NUMBERS: 3 2 3 5 5 2\nDOTS: none none none none none none\nUNDERLINES: 1 1 1 1 1 1\nAFTER: -\nBASS: 6",
+      "2": "NUMBERS: 1 2 1 4 3\nDOTS: none none none none none\nUNDERLINES: 1 1 1 1 1\nAFTER: - -\nBASS: 5",
+      "3": "NUMBERS: 3 2 2 3 5 5 5 2\nDOTS: none none none none none none above none\nUNDERLINES: 2 2 2 2 2 2 2 2\nAFTER: - -\nBASS: 4"
+    },
+    "5": {
+      "1": "NUMBERS: 1 2 1 7 6 0 1 2\nDOTS: none none none none below none none none\nUNDERLINES: 1 1 1 1 1 1 1 1\nAFTER: -\nBASS: 6",
+      "2": "NUMBERS: 3 2 3 3 4 3 2 1 2 1 7\nDOTS: none none none none none none none none none none none\nUNDERLINES: 1 1 1 1 1 1 1 1 1 1 1\nAFTER: none\nBASS: 6 5",
+      "3": "NUMBERS: 6 7 1 2 1 7 1 7 6 6 0 1 2\nDOTS: none none none none none none none none none below none none none\nUNDERLINES: 1 1 1 1 1 1 1 1 1 0 1 1 1\nAFTER: none\nBASS: 4 6"
+    },
+    "6": {
+      "1": "NUMBERS: 6 7 1 2 1 7 1 7 6 6 0 6 7\nDOTS: none none none none none none none none none none none none none\nUNDERLINES: 1 1 1 1 2 2 2 2 2 1 1 1 1\nAFTER: none\nBASS: 4 6",
+      "2": "NUMBERS: 6 7 1 2 1 7 1 7 6 6 0 6 7\nDOTS: none none none none none none none none none below none none none\nUNDERLINES: 1 1 1 1 2 2 2 2 2 0 1 1 1\nAFTER: none\nBASS: 4 6"
+    },
+    "7": {
+      "1": "NUMBERS: 1 7 5 5 3 6\nDOTS: above none none none none none\nUNDERLINES: 0 1 1 0 1 1\nAFTER: none\nBASS: 4",
+      "2": "NUMBERS: 6 6 7\nDOTS: none none none\nUNDERLINES: 0 0 1\nAFTER: - -\nBASS: 6",
+      "3": "NUMBERS: 7 7 6 7 6 5\nDOTS: none none none none none none\nUNDERLINES: 1 1 1 1 1 1\nAFTER: none\nBASS: 5",
+      "4": "NUMBERS: 3 6 7\nDOTS: none none none\nUNDERLINES: 0 0 1\nAFTER: - -\nBASS: 3"
+    },
+    "8": {
+      "1": "NUMBERS: 1 7 7 6 3 1\nDOTS: above none none none none above\nUNDERLINES: 0 1 1 1 0 0\nAFTER: none\nBASS: 4",
+      "2": "Based on the provided image, here is the analysis of the measure:\n\nNUMBERS: 2 5 6\nDOTS: above none none\nUNDERLINES: 0 1 1\nAFTER: - -\nBASS: 2",
+      "3": "Based on the image provided, here is the analysis of the measure strictly between the two vertical bar lines:\n\n1.  **NUMBERS**: The digits written as notes in order are 7, 1, 7, 6, 7, and 5.\n2.  **DOTS**: \n    *   The first note (7) has a dot above it.\n    *   The second note (1) has a dot above it.\n    *   The remaining notes (7, 6, 7, 5) have no dots.\n3.  **UNDERLINES**: \n    *   The first two notes (7, 1) are grouped together with one underline.\n    *   The next two notes (7, 6) are grouped together with one underline.\n    *   The last two notes (7, 5) have no underlines.\n4.  **AFTER**: The measure ends with the last number (5) before the bar line, so there is nothing written after it.\n5.  **BASS**: There is a single digit \"3\" written in the lower row beneath the first two notes.\n\nNUMBERS: 7 1 7 6 7 5\nDOTS: above above none none none none\nUNDERLINES: 1 1 1 1 0 0\nAFTER: none\nBASS: 3",
+      "4": "NUMBERS: 6\nDOTS: none\nUNDERLINES: 0\nAFTER: - -\nBASS: 6"
+    }
+  }
+}
