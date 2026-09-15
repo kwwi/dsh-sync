@@ -1,0 +1,117 @@
+{
+  "tag": "p1",
+  "page": [
+    1536,
+    2048
+  ],
+  "strips": [
+    {
+      "idx": 1,
+      "band": [
+        78,
+        204
+      ],
+      "size": [
+        2600,
+        280
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L01.png"
+    },
+    {
+      "idx": 2,
+      "band": [
+        204,
+        411
+      ],
+      "size": [
+        2600,
+        445
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L02.png"
+    },
+    {
+      "idx": 3,
+      "band": [
+        411,
+        639
+      ],
+      "size": [
+        2600,
+        487
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L03.png"
+    },
+    {
+      "idx": 4,
+      "band": [
+        639,
+        848
+      ],
+      "size": [
+        2600,
+        448
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L04.png"
+    },
+    {
+      "idx": 5,
+      "band": [
+        848,
+        995
+      ],
+      "size": [
+        2600,
+        323
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05.png"
+    },
+    {
+      "idx": 6,
+      "band": [
+        995,
+        1138
+      ],
+      "size": [
+        2600,
+        316
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06.png"
+    },
+    {
+      "idx": 7,
+      "band": [
+        1138,
+        1292
+      ],
+      "size": [
+        2600,
+        338
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L07.png"
+    },
+    {
+      "idx": 8,
+      "band": [
+        1292,
+        1515
+      ],
+      "size": [
+        2600,
+        479
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L08.png"
+    },
+    {
+      "idx": 9,
+      "band": [
+        1515,
+        1653
+      ],
+      "size": [
+        2600,
+        304
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L09.png"
+    }
+  ]
+}

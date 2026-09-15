@@ -1,0 +1,162 @@
+{
+  "1": {
+    "1": {
+      "0": "MELODY: [0|up1|0.5] [1|up1|0.5] [2|up1|0.5] [5|up1|0.5] [5|up1|1] [5|up1|1] | [1|up1|0.5] [2|up1|0.5] [2|up1|1]\nBASS: [6|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [0|mid|0.5] [3|up1|0.5] [2|up1|0.5] [2|up1|0.5] [2|up1|2] [1|up1|0.5] [2|up1|0.5] [2|up1|1]\nBASS: [6|dn1|1] [3|dn1|2] [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [0.5|up1|0.5] [6|mid|1] [1|up1|0.5] [2|up1|0.5] [3|up1|1.5] [3|up1|2] [1|up1|0.5] [2|up1|0.5] [2|up1|1]\nBASS: [6|dn1|1] [6|dn1|1] [5|dn1|2]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [0|up1|0.5] [6|up1|0.5] [1|up1|1] [2|up1|0.5] [3|up1|0.5] [5|up1|1] [2|up1|1] | [1|up1|1] [2|up1|1] [2|up1|1]\nBASS: [6|dn1|1] [6|dn1|1] [3|dn1|1] | [5|dn1|1] [5|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [2|up1|1] [2|up1|1] [2|up1|1] | [1|up1|0.5] [2|up1|0.5] [2|up1|1] [4|up1|0.5] [3|up1|0.5] [3|up1|1] [3|up1|1]\nBASS: [5|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|up1|0.5] [2|up1|1] [2|mid|0.5] [4|mid|0.5] [3|mid|2]\nBASS: [5|dn1|2]\nCHORDS: none\nNOTES: The first measure contains notes that are cut off on the left; only the dashes and part of the initial number are visible.",
+      "2": "MELODY: [6|mid|3] [6|mid|1] | [1|up1|0.5] [3|up1|0.5] [2|up1|2] [2|up1|1] [4|up1|1] [3|up1|2] [3|up1|1]\nBASS: [3|dn1|1] [5|dn1|1] | [1|mid|4]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [0|mid|1] [0|mid|1] | [1|up1|1] [2|up1|0.5] [2|up1|0.5] [4|up1|0.5] [3|up1|1] [3|up1|1] [3|up1|1]\nBASS: [3|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [2|mid|1] [4|mid|1] [3|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] | [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1]\nBASS: [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] | [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1]\nCHORDS: none\nNOTES: The dash marks after the numbers 2, 4, and 3 are somewhat faint and could be interpreted as either beat dashes or lyric dashes. The bass notes are not visible in this specific crop.",
+      "1": "MELODY: [2|mid|2] [4|mid|2] [3|mid|4] | [0|mid|4]\nBASS: [0|mid|4] | [0|mid|4]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [2|mid|1] [4|mid|1] [3|mid|1] [0|mid|1] [0|mid|1] | [0|mid|1] [0|mid|1] [0|mid|1]\nBASS: none\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [2|mid|4] [5|mid|4] [3|mid|4] | [0|mid|4]\nBASS: [0|mid|4] | [0|mid|4]\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "2": {
+    "1": {
+      "0": "MELODY: [6|mid|0.5] [1|up1|0.5] [1|up1|0.5] [2|up1|0.25] [3|up1|0.25] [2|up1|0.5] | [1|up1|0.5] [3|up1|0.5] [1|up1|0.5]\nBASS: [4|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [6|mid|0.5] [1|up1|0.5] [1|up1|0.5] [2|up1|0.25] [3|up1|0.25] [2|up1|0.5] | [1|up1|0.5] [2|up1|0.5] [1|up1|1]\nBASS: [4|dn1|1] [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [6|dn1|0.5] [1|dn1|0.5] [1|dn1|0.5] [2|dn1|0.25] [3|dn1|0.25] [2|dn1|0.5] | [1|dn1|1] [3|dn1|1] [1|dn1|1]\nBASS: [4|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [6|up1|0.5] [1|up1|0.5] [1|up1|1] [2|up1|0.25] [3|up1|0.25] [2|up1|1] | [1|up1|1] [3|up1|0.5] [1|up1|0.5]\nBASS: [4|dn1|0.5] [6|dn1|0.5] | [6|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [3|up1|0.25] [3|up1|0.25] [2|up1|0.25] [2|up1|0.25] [1|up1|0.5] [3|up1|0.5] [1|up1|0.25] [7|up1|0.25] [6|up1|0.25] [6|up1|0.25] [6|up1|1] [6|up1|1] | [1|up1|0.5] [3|up1|0.5] [1|up1|0.25] [7|up1|0.25] [6|up1|0.25] [6|up1|0.25] [6|up1|1] [6|up1|1]\nBASS: [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [2|up1|0.5] [3|up1|0.5] [2|up1|0.5] [3|up1|0.5] [1|up1|0.5] [2|up1|1] [1|up1|0.5] [7|mid|0.5] [6|mid|1] | [6|dn1|1]\nBASS: [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [3|up1|0.25] [3|up1|0.25] [2|up1|0.25] [3|up1|0.25] [2|up1|1] | [1|up2|0.25] [7|up1|0.25] [6|up1|0.25] [5|up1|0.25] [6|mid|1] | \nBASS: [6|dn1|1] | \nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [2|up1|0.25] [3|up1|0.25] [2|up1|0.25] [2|up1|1] [1|mid|0.5] [3|mid|0.5] [1|mid|0.25] [7|mid|0.25] [6|mid|0.5] [6|mid|1]\nBASS: [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [6|dn1|0.5] [7|dn1|0.5] [6|dn1|2] | [0|mid|2]\nBASS: none\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [6|dn1|1] [6|dn1|1] [6|dn1|1] [6|dn1|1]\nBASS: [0|mid|4] | [0|mid|4]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [6|dn1|2] [5|dn1|0.5] [0|mid|0.5] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] | [0|mid|1]\nBASS: [0|mid|1] | [0|mid|1]\nCHORDS: none\nNOTES: The first two numbers 6 and 5 are grouped under a single horizontal beam, indicating they are eighth notes (0.5 beats each), followed by a rest. The subsequent symbols are dashes indicating sustained rests or notes. The vertical barline indicates the end of a measure.",
+      "3": "MELODY: [1|mid|1] [7|dn1|0.5] [6|dn1|0.5] [0|mid|2] [0|mid|2] | [0|mid|4]\nBASS: none\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "3": {
+    "1": {
+      "0": "MELODY: [6|up1|0.5] [1|up1|0.5] [1|up1|1] [2|up1|0.25] [3|up1|0.25] [2|up1|0.5] [1|up1|1] [2|up1|0.5] [2|up1|0.5] [4|up1|0.5]\nBASS: [6|dn1|1] [4|dn1|1] [5|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [6|up1|0.5] [1|up1|0.5] [1|up1|0.5] [2|up1|0.25] [3|up1|0.25] [2|up1|0.5] [1|up1|1] [2|up1|1] [2|up1|0.5] [4|up1|0.5] | [6|up1|1] [5|up1|1] [6|up1|1] [6|up1|1]\nBASS: [6|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [6|up1|0.5] [1|up1|0.5] [1|up1|1] [2|up1|0.25] [3|up1|0.25] [2|up1|2] | [1|up1|0.5] [2|up1|0.5] [2|up1|0.25] [4|up1|0.25]\nBASS: [6|dn1|1] [4|dn1|1] | [5|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: The last note of the melody is partially cut off at the right edge, but appears to be a 4.",
+      "3": "MELODY: [6|up1|0.5] [1|up1|0.5] ( [2|up1|0.5] [3|up1|0.5] [2|up1|0.5] ) [1|up1|1] [6|up1|2] [1|up1|0.5] [2|up1|0.5] [2|up1|1] [4|up1|1]\nBASS: [6|dn1|1] [4|dn1|2] [5|dn1|2] [6|dn1|2]\nCHORDS: none\nNOTES: The first melody note is slightly blurred but appears to be 6."
+    },
+    "2": {
+      "0": "MELODY: [2|mid|0.25] [3|mid|0.25] [2|mid|0.25] [0|mid|1] [0|mid|1] | [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] | [5|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [3|up1|0.25] [2|up1|0.25] [3|up1|0.25] [2|up1|0.25] [2|up1|1] [2|up1|1] | [1|up1|0.5] [2|up1|0.5] [2|up1|0.5] [4|up1|0.5] [3|up1|1] [3|up1|1]\nBASS: [6|dn1|0.5] [5|dn1|0.5] [6|dn1|0.5] | [6|dn1|0.5] [5|dn1|0.5] [6|dn1|0.5]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [2|mid|0.25] [3|mid|0.25] [2|mid|0.25] [0|mid|1] [0|mid|1] | [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] | [5|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [2|up1|0.25] [3|up1|0.25] [2|up1|0.25] [1|mid|2] [2|mid|2] [5|dn1|0.5] | [6|dn1|0.5] [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|0.5] [6|dn1|2] [5|dn1|2] |\nBASS: none\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [2|mid|1] [3|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|mid|1] [0|",
+      "1": "MELODY: [2|mid|1] [4|mid|1] [3|mid|1] [0|mid|2] | [0|mid|2]\nBASS: [0|mid|2] | [0|mid|2]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [2|mid|2] [3|mid|2]\nBASS: [0|mid|4] [0|mid|2]\nCHORDS: none\nNOTES: The second melody number is slightly ambiguous (could be a 3 or 5), but its rounded top and flat base indicate a 3.",
+      "3": "MELODY: [2|mid|0.5] [3|mid|0.5] [0|mid|2] | [0|mid|1]\nBASS: [0|mid|1]\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "4": {
+    "1": {
+      "0": "MELODY: [3|mid|0.75] [2|mid|0.5] [3|mid|0.5] [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [0|mid|2] | [1|up1|0.5] [3|up1|0.5] [1|up1|0.5] [4|up1|0.5] [3|up1|0.5]\nBASS: [6|dn1|2] | [5|dn1|2]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [0|mid|2] | [1|up1|0.5] [3|up1|0.5] [1|up1|0.25] [4|up1|0.25] [3|up1|0.5]\nBASS: [6|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [0|mid|1] | [1|up1|0.5] [2|up1|0.5] [1|up1|0.5] [4|up1|0.5] [3|up1|0.5]\nBASS: [6|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [3|mid|0.75] [2|mid|0.5] [3|mid|0.75] [5|mid|0.5] [5|mid|0.75] [2|mid|0.5] [0|mid|2] | [1|up1|0.75] [2|up1|0.5] [1|up1|0.75] [4|up1|0.25] [3|up1|0.25]\nBASS: [6|dn1|2] | [5|dn1|2]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [4|mid|0.5] [3|mid|0.5] [3|mid|0.5] [2|mid|0.5] [2|mid|0.5] [3|mid|0.5] [5|mid|0.5] [5|mid|0.5]\nBASS: [5|dn1|1] [4|dn1|1]\nCHORDS: none\nNOTES: The first note of the melody is partially cut off at the left edge, but is identifiable as a 5. The last note of the melody is partially cut off at the right edge, but is identifiable as a 5.",
+      "1": "MELODY: [5|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|1] | [1|up1|0.5] [2|up1|0.5] [1|up1|0.5] [4|up1|0.5] [3|up1|0.5] [2|up1|0.5] [3|up1|1] [2|up1|1] [1|up1|1] | [3|up1|0.25] [2|up1|0.25] [2|up1|0.25] [3|up1|0.25] [2|up1|1] [3|up1|1] [5|up1|0.25] [5|up1|0.25] [5|up1|0.25] [5|up1|0.25]\nBASS: [5|dn1|0.5] [5|dn1|0.5] [5|dn1|0.5] [5|dn1|0.5] [5|dn1|1] [5|dn1|1] | [5|dn1|1] [5|dn1|1] [5|dn1|1] [5|dn1|1] | [4|dn1|1] [4|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [2|mid|1] | [1|up1|0.5] [2|up1|0.5] [1|up1|0.5] [4|up1|0.5] [3|up1|1] [3|up1|1] [3|up1|1] | [3|up1|0.5] [2|up1|0.5] [2|up1|0.5] [2|up1|0.5] [2|up1|1] [5|up1|0.5] [5|up1|0.5]\nBASS: [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [5|mid|0.5] [5|mid|0.5] [2|mid|1] [0|mid|2] | [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [4|mid|0.5] [3|mid|1] [0|mid|2] | [3|mid|0.25] [2|mid|0.25] [2|mid|0.25] [3|mid|0.25] [0|mid|2] [5|mid|0.5] [5|mid|0.5]\nBASS: [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [1|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1] [0|mid|1] | [3|mid|0.25] [2|mid|0.25] [2|mid|0.25] [3|mid|0.25] [0|mid|1] [5|mid|0.25] [5|mid|0.25] [5|mid|0.25] [2|mid|0.25] [0|mid|1] [0|mid|1] |\nBASS: [0|mid|1] | [4|dn1|1] |\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|mid|1] [4|mid|1] [3|mid|1] [0|mid|3] | [3|mid|0.5] [2|mid|0.5] [2|mid|0.5] [3|mid|0.5] [0|mid|1] [5|mid|0.5] [5|mid|0.5] [5|mid|0.5] [2|mid|0.5] [0|mid|2] |\nBASS: [4|dn1|2] |\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1] [0|mid|1] | [3|mid|0.25] [2|mid|0.25] [2|mid|0.25] [3|mid|0.25] [0|mid|1] [5|mid|0.25] [5|mid|0.25] [5|mid|0.25] [2|mid|0.25] [0|mid|1]\nBASS: [0|mid|1] | [4|dn1|1]\nCHORDS: none\nNOTES: The first group of notes (1, 4, 3) has a curved line above them which appears to be a phrasing mark or slur, but since the performance instruction for slurs is not explicitly written as a curved line over *numbers* in the traditional sense (usually it's a tie), I have transcribed them as individual notes. The dash after the '4' in the bass is a continuation of the note. The dashes in the melody row are represented as rest tokens with beat value 1.",
+      "3": "MELODY: [3|mid|1] [3|mid|1] [2|mid|1] [3|mid|1] [5|mid|1.5] [5|mid|0.25] [5|mid|0.25] [2|mid|0.5] | [1|mid|1] [1|mid|1] [1|mid|2]\nBASS: [4|dn1|2] | [0|mid|4]\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "5": {
+    "1": {
+      "0": "MELODY: [1|mid|0.75] [2|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [0|mid|2] [0|mid|1] [1|mid|0.5] [2|mid|0.5] | [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25]\nBASS: [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|mid|0.5] [2|mid|0.5] [1|dn1|0.25] [7|dn1|0.25] [6|dn1|0.5] [0|mid|2] [1|mid|0.25] [2|mid|0.25] | [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25]\nBASS: [6|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [7|dn1|0.5] [6|dn1|0.5] [0|mid|2] [0|mid|0.5] [1|mid|0.5] [2|mid|1] | [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25]\nBASS: [6|dn1|2] | [6|dn1|2]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [7|dn1|0.25] [6|dn1|0.5] [0|mid|2] [1|mid|0.5] [2|mid|0.5] | [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25]\nBASS: [6|dn2|2] | [6|dn2|1]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [6|dn1|2] [0|mid|0.5] [1|mid|0.25] [2|mid|0.25] | [3|mid|0.75] [2|mid|0.25] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.25] [2|mid|0.75] [1|mid|0.25] [2|mid|0.25] [1|mid|0.25] [7|dn1|0.25] | [6|dn1|0.25] [7|dn1|0.25] [1|mid|0.25] [2|mid|0.25] [1|mid|0.25] [7|dn1|0.25] [6|dn1|0.25]\nBASS: [6|dn2|1] | [6|dn1|1] [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: The final note in the melody is partially cut off at the right edge, but is identifiable as a 6.",
+      "1": "MELODY: [6|dn1|2] [0|dn1|0.5] [1|dn1|0.5] [2|dn1|0.5] | [3|dn1|0.75] [2|dn1|0.25] [3|dn1|0.25] [3|dn1|0.25] [4|dn1|0.25] [3|dn1|0.25] [1|dn1|0.25] [2|dn1|0.75] [1|dn1|0.25] [2|dn1|0.25] [1|dn1|0.25] [7|dn1|0.25] | [6|dn1|0.25] [7|dn1|0.25] [1|mid|0.25] [2|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|mid|0.25] [1|mid|0.25] [7|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1] | [6|dn1|2] [5|dn1|2] | [4|dn1|2]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [6|dn1|1] [0|mid|1] [1|mid|0.5] [2|mid|0.5] | [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [1|mid|0.5] [2|mid|0.25] [1|mid|0.25] [7|dn1|0.5] | [6|dn1|0.25] [7|dn1|0.25] [1|mid|0.25] [2|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|dn1|0.25] [7|dn1|0.25] [6|dn1|0.5]\nBASS: [6|dn2|1] | [6|dn1|1] [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: The final notes on the right edge are partially cut off, but the visible numbers 6, 7, 1, 2, 1, 3, 7, 7, 6 are legible.",
+      "3": "MELODY: [6|dn1|2] [0|mid|0.5] [1|mid|0.25] [2|mid|0.25] | [3|mid|0.75] [2|mid|0.5] [3|mid|0.25] [3|mid|0.5] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|1] | [6|dn1|0.25] [7|dn1|0.25] [1|mid|0.25] [2|mid|0.25] [1|mid|0.5] [7|dn1|0.5] [6|dn1|1]\nBASS: [6|dn1|2] | [6|dn1|2] [5|dn1|2] | [4|dn1|2]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [7|mid|0.25] [1|up1|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|1] [0|mid|0.5] [1|up1|0.25] [2|up1|0.25] |\nBASS: [5|dn1|2] | [4|dn1|2] [6|dn1|2] |\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|1] [0|mid|0.5] [1|up1|0.5] [2|up1|0.5]\nBASS: [5|dn1|1] | [4|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [3|mid|1] [3|mid|0.75] [4|mid|0.5] [3|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.25] [1|mid|0.25] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.5] [7|mid|0.25] [7|mid|0.25] [6|mid|0.5] [6|mid|0.5] [0|mid|0.5] [1|up1|0.25] [2|up1|0.25]\nBASS: [5|dn1|0.5] | [4|dn1|0.5] [6|dn1|0.5]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [7|dn1|0.25] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|0.5] [0|mid|0.25] [1|up1|0.25] [2|up1|0.25] |\nBASS: [5|dn1|2] | [4|dn1|2] [6|dn1|2] |\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "6": {
+    "1": {
+      "0": "MELODY: [3|mid|1.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.5] [7|mid|0.25] [1|up1|0.25] [7|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1] [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [3|mid|1.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.25] [7|mid|0.25] [1|up1|0.25] [7|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1] [5|dn1|1] | [4|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [3|mid|1] [2|mid|0.75] [3|mid|1] [3|mid|0.75] [4|mid|0.75] [3|mid|0.75] [1|mid|0.5] [2|mid|1] [1|mid|0.5] [2|mid|1] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.5] [7|mid|0.5] [1|up1|0.5] [2|up1|0.5] [1|up1|0.5] [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|2] [5|dn1|2] | [4|dn1|2]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.25] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.5] [7|mid|0.25] [1|up1|0.25] [7|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1] [5|dn1|1] | [4|mid|1]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|1] [0|mid|0.5] [6|mid|0.25] [7|mid|0.25] |\nBASS: [5|dn1|1] | [4|dn1|1] [6|dn1|1] |\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|mid|1] [2|dn1|1] [1|mid|0.5] [2|dn1|0.5] [7|dn1|1] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|1] [7|mid|0.5] [7|mid|0.25] [6|mid|0.25] [6|mid|1] [0|mid|0.5] [6|mid|0.5] [7|mid|0.5] |\nBASS: [5|dn1|2] | [4|dn1|1] [6|dn1|2] |\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|mid|0.5] [2|mid|0.25] [1|mid|0.25] [2|mid|0.5] [7|dn1|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|0.5] [0|mid|0.25] [6|mid|0.25] [7|mid|0.25] |\nBASS: [5|dn1|1] | [4|dn1|1] [6|dn1|2] |\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [2|mid|0.5] [1|up1|0.5] [2|mid|0.5] [7|mid|0.5] | [6|mid|0.25] [7|mid|0.25] [1|up1|0.25] [2|up1|0.25] [1|up1|0.5] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [6|mid|1] [0|mid|0.25] [6|mid|0.25] [7|mid|0.5]\nBASS: [5|dn1|1] | [4|dn1|1] [6|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [1|dn1|0.25] [7|dn1|0.25] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|0.5] [0|mid|0.5] [6|mid|0.5] [7|mid|0.5] |\nBASS: [6|dn1|1] |\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|dn1|0.25] [7|dn1|0.25] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [0|dn1|0.5] [6|dn1|0.25] [7|dn1|0.25] |\nBASS: [6|dn1|1] |\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|dn1|0.125] [7|dn1|0.125] [7|dn1|0.125] [6|dn1|0.125] [6|dn1|0.5] | [0|mid|0.5] [6|mid|0.25] [7|mid|0.25]\nBASS: [6|dn1|1] | [0|mid|0]\nCHORDS: none\nNOTES: The final measure contains only a vertical barline with no notes after it.",
+      "3": "MELODY: [1|up1|0.25] [7|up1|0.25] [1|up1|0.25] [7|up1|0.25] [6|up1|0.25] [6|mid|1] [0|mid|1] [6|mid|0.5] [7|mid|0.5] | [6|mid|4]\nBASS: [6|dn1|1] | [0|mid|4]\nCHORDS: none\nNOTES: none"
+    }
+  },
+  "7": {
+    "1": {
+      "0": "MELODY: [1|up1|1] [7|mid|0.5] [5|mid|0.5] [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|4] [6|mid|0.5] [7|mid|0.5]\nBASS: [4|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|up1|0.5] [7|mid|0.5] [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|4] [6|mid|0.5] [7|mid|0.5]\nBASS: [4|dn1|1] | [6|dn1|4]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|up1|1] [7|mid|0.5] [5|mid|0.5] [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|4] [6|mid|1] [7|mid|1]\nBASS: [4|dn1|1] | [6|dn1|4]\nCHORDS: none\nNOTES: The last two notes in the melody are partially cut off at the right edge; the final 7 is assumed to be mid octave based on context.",
+      "3": "MELODY: [1|up1|1] [7|mid|0.5] [5|mid|0.5] [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|3] [6|mid|1] [7|mid|0.5]\nBASS: [4|dn1|1] | [6|dn1|1]\nCHORDS: none\nNOTES: The last note is partially cut off at the right edge; I have transcribed it as 7 based on the visible portion."
+    },
+    "2": {
+      "0": "MELODY: [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|3] [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [6|mid|0.5] [7|mid|0.5] [6|mid|0.5] [5|mid|0.5]\nBASS: [6|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|3] [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [6|mid|0.5] [7|mid|0.5] [6|mid|0.5] [5|mid|0.5]\nBASS: [6|dn1|0.5] | [5|dn1|0.5]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|3] [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [6|mid|0.25] [7|mid|0.25] [6|mid|0.5] [7|mid|0.5] [6|mid|0.5] [5|mid|0.5]\nBASS: [6|dn1|1] | [5|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [5|mid|1] [3|mid|0.5] [6|mid|0.5] | [6|mid|4] [6|mid|0.5] [7|mid|0.5] | (1|up1|0.25) (7|mid|0.25) (6|mid|0.5) [7|mid|1] [6|mid|0.5] [5|mid|0.5]\nBASS: [6|dn1|2] | [5|dn1|2]\nCHORDS: none\nNOTES: The first measure contains a '5' followed by '36' with a slur spanning from the '5' to the '3'. There is a faint vertical barline at the beginning. The melody in the second measure consists of '6' held for four beats (three dashes) and then '6' and '7' as eighth notes."
+    },
+    "3": {
+      "0": "MELODY: [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [6|mid|0.25] [7|mid|0.25] [6|mid|0.5] [5|mid|0.5] | [3|mid|3] [6|mid|0.5] [7|mid|0.5]\nBASS: [5|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [7|mid|1] [6|mid|0.5] [5|mid|0.5] | [3|mid|3] [6|mid|0.5] [7|mid|0.5]\nBASS: [5|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [6|mid|0.5] [7|mid|0.5] | [1|up1|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [7|mid|0.5] [6|mid|0.5] [5|mid|0.5] | [3|mid|3] [6|mid|0.25] [7|mid|0.25]\nBASS: [5|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [6|mid|2] [7|mid|2] | [1|up1|1] [7|up1|0.5] [7|up1|0.25] [6|up1|0.25] [7|mid|1] [6|mid|1] [5|mid|1] | [3|mid|3] [6|mid|1] [7|mid|1]\nBASS: [5|dn1|2] | [3|dn1|1]\nCHORDS: none\nNOTES: The first measure's melody notes '67' are beamed together with two underlines, indicating sixteenth notes. The bass '5' is also underlined twice. The second measure's melody starts with a high octave '1' followed by a group of four notes '776' beamed together with two underlines, then '76' with one underline, and '5' with one underline. The bass has a '3' with a dot below. The third measure's melody has '3' held for three beats with dashes, followed by '67' beamed with one underline. The bass '3' has a dot below and a dash, indicating it is held."
+    }
+  },
+  "8": {
+    "1": {
+      "0": "MELODY: [1|up1|1] [7|up1|0.25] [7|up1|0.25] [7|up1|0.25] [6|up1|0.25] [3|up1|1.5] [1|up1|1] | [2|up1|3] [5|up1|0.5] [6|up1|0.5]\nBASS: [4|dn1|1] | [2|dn1|3]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [1|up1|0.5] [7|mid|0.25] [7|mid|0.25] [7|mid|0.25] [6|mid|0.25] [3|up1|1.5] [1|up1|1] | [2|up1|4] [5|up1|0.5] [6|up1|0.5]\nBASS: [4|dn1|1] | [2|dn1|4]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [1|up1|1] [7|up1|0.25] [7|up1|0.25] [7|up1|0.25] [6|up1|0.25] [3|up1|1.5] [1|up1|1] | [2|up1|1] [2|up1|3] [5|up1|0.5] [6|up1|0.5]\nBASS: [4|dn1|1] | [2|dn1|3]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [1|up1|1] [7|up1|0.25] [7|up1|0.25] [7|up1|0.25] [6|up1|0.25] [3|up1|1.5] [1|up1|1] | [2|up1|3] [5|up1|0.5] [6|up1|0.5]\nBASS: [4|dn1|1] | [2|dn1|3]\nCHORDS: none\nNOTES: none"
+    },
+    "2": {
+      "0": "MELODY: [3|up1|1.5] [1|up1|1] | [2|up1|3] [5|up1|0.5] [6|up1|0.5] | [7|up1|0.5] [1|up2|0.5] [7|up1|0.5] [6|up1|0.5] [7|up1|1] [5|up1|1]\nBASS: [2|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "1": "MELODY: [3|up1|0.75] [1|up1|1] | [2|up1|3] [5|up1|0.5] [6|up1|0.5] | [7|up1|0.5] [1|up2|0.5] [7|up1|0.5] [6|up1|0.5] [7|up1|1] [5|up1|1]\nBASS: [2|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "2": "MELODY: [3|up1|0.75] [1|up1|1] | [2|up1|3] [5|mid|0.5] [6|mid|0.5] | [7|up1|0.5] [1|up2|0.5] [7|up1|0.5] [6|up1|0.5] [7|up1|1] [5|up1|1]\nBASS: [2|dn1|1] | [3|dn1|1]\nCHORDS: none\nNOTES: none",
+      "3": "MELODY: [3|up1|1.5] [1|up1|1] | [2|up1|3] [5|mid|0.5] [6|mid|0.5] | [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [7|mid|1] [5|mid|1]\nBASS: [2|dn1|2] | [3|dn1|1]\nCHORDS: none\nNOTES: none"
+    },
+    "3": {
+      "0": "MELODY: [5|mid|0.5] [6|mid|0.5] | [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [7|mid|1] [5|mid|1] | [6|mid|3] [6|mid|0.5] [7|mid|0.5] |\nBASS: [3|dn1|1] | [6|dn1|1] |\nCHORDS: none\nNOTES: The final measure contains a handwritten annotation that appears to be \"6 1 2\" with a slur, but it is crossed out and not part of the main notation.",
+      "1": "MELODY: [5|mid|0.5] [6|mid|0.5] | [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [7|mid|1] [5|mid|1] | [6|mid|4] [6|mid|0.5] [7|up1|0.5]\nBASS: [3|dn1|1] | [6|dn1|2]\nCHORDS: none\nNOTES: The final two notes in the melody (6 7) have a curved slur line above them. The last note 7 is written slightly higher and has an up1 octave dot.",
+      "2": "MELODY: [5|mid|0.5] [6|mid|0.5] | [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [7|mid|1] [5|mid|1] | [6|mid|3] [6|mid|0.5] [7|up1|0.5] |\nBASS: [3|dn1|1] | [6|dn1|3] |\nCHORDS: none\nNOTES: The final measure is cut off at the right edge. The '6' in the bass of the third measure has a small scribble next to it, likely a decorative mark or a poorly formed flat sign, but the pitch is clearly a '6'.",
+      "3": "MELODY: [5|mid|0.5] [6|mid|0.5] | [7|mid|0.5] [1|up1|0.5] [7|mid|0.5] [6|mid|0.5] [7|mid|1] [5|mid|1] | [6|mid|3] [6|mid|0.5] [7|mid|0.5] |\nBASS: [3|dn1|1] | [6|dn1|3] |\nCHORDS: none\nNOTES: The final measure and end barline are partially cut off; the last two melody notes (6, 7) are inferred from the visible ink. The bass note 6 has a dot below and a small mark that may be a second dot, but is transcribed as single-dot dn1."
+    }
+  }
+}

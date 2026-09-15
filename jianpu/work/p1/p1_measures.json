@@ -1,0 +1,469 @@
+{
+  "1": {
+    "barlines": [
+      2434
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          2434
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L01_m01.png",
+        "size": [
+          2586,
+          280
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          2434,
+          2600
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L01_m02.png",
+        "size": [
+          1200,
+          1856
+        ]
+      }
+    ]
+  },
+  "2": {
+    "barlines": [
+      825,
+      1536,
+      2436,
+      2568
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          825
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L02_m01.png",
+        "size": [
+          1200,
+          606
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          825,
+          1536
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L02_m02.png",
+        "size": [
+          1200,
+          661
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          1536,
+          2436
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L02_m03.png",
+        "size": [
+          1020,
+          445
+        ]
+      },
+      {
+        "m": 4,
+        "x": [
+          2436,
+          2600
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L02_m04.png",
+        "size": [
+          1200,
+          2983
+        ]
+      }
+    ]
+  },
+  "3": {
+    "barlines": [
+      670,
+      1936,
+      2433
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          670
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L03_m01.png",
+        "size": [
+          1200,
+          816
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          670,
+          1936
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L03_m02.png",
+        "size": [
+          1428,
+          487
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          1936,
+          2433
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L03_m03.png",
+        "size": [
+          1200,
+          1030
+        ]
+      },
+      {
+        "m": 4,
+        "x": [
+          2433,
+          2600
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L03_m04.png",
+        "size": [
+          1200,
+          3193
+        ]
+      }
+    ]
+  },
+  "4": {
+    "barlines": [
+      1347,
+      2392,
+      2542
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          1347
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L04_m01.png",
+        "size": [
+          1433,
+          448
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          1347,
+          2392
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L04_m02.png",
+        "size": [
+          1181,
+          448
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          2392,
+          2542
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L04_m03.png",
+        "size": [
+          1200,
+          2986
+        ]
+      }
+    ]
+  },
+  "5": {
+    "barlines": [
+      711,
+      1358,
+      2355,
+      2469
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          711
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05_m01.png",
+        "size": [
+          1200,
+          510
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          711,
+          1358
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05_m02.png",
+        "size": [
+          1200,
+          527
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          1358,
+          2355
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05_m03.png",
+        "size": [
+          1127,
+          323
+        ]
+      },
+      {
+        "m": 4,
+        "x": [
+          2355,
+          2469
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05_m04.png",
+        "size": [
+          1200,
+          2808
+        ]
+      },
+      {
+        "m": 5,
+        "x": [
+          2469,
+          2600
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L05_m05.png",
+        "size": [
+          1200,
+          2691
+        ]
+      }
+    ]
+  },
+  "6": {
+    "barlines": [
+      899,
+      1458,
+      2239,
+      2414,
+      2543
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          899
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06_m01.png",
+        "size": [
+          1200,
+          395
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          899,
+          1458
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06_m02.png",
+        "size": [
+          1200,
+          595
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          1458,
+          2239
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06_m03.png",
+        "size": [
+          1200,
+          428
+        ]
+      },
+      {
+        "m": 4,
+        "x": [
+          2239,
+          2414
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06_m04.png",
+        "size": [
+          1200,
+          1831
+        ]
+      },
+      {
+        "m": 5,
+        "x": [
+          2414,
+          2543
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L06_m05.png",
+        "size": [
+          1200,
+          2446
+        ]
+      }
+    ]
+  },
+  "7": {
+    "barlines": [
+      898,
+      2219,
+      2410,
+      2517
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          898
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L07_m01.png",
+        "size": [
+          1200,
+          423
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          898,
+          2219
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L07_m02.png",
+        "size": [
+          1491,
+          338
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          2219,
+          2410
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L07_m03.png",
+        "size": [
+          1200,
+          1802
+        ]
+      },
+      {
+        "m": 4,
+        "x": [
+          2410,
+          2517
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L07_m04.png",
+        "size": [
+          1200,
+          3096
+        ]
+      }
+    ]
+  },
+  "8": {
+    "barlines": [
+      2415,
+      2533
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          2415
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L08_m01.png",
+        "size": [
+          2565,
+          479
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          2415,
+          2533
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L08_m02.png",
+        "size": [
+          1200,
+          3991
+        ]
+      }
+    ]
+  },
+  "9": {
+    "barlines": [
+      1075,
+      2475,
+      2592
+    ],
+    "measures": [
+      {
+        "m": 1,
+        "x": [
+          0,
+          1075
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L09_m01.png",
+        "size": [
+          1145,
+          304
+        ]
+      },
+      {
+        "m": 2,
+        "x": [
+          1075,
+          2475
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L09_m02.png",
+        "size": [
+          1580,
+          304
+        ]
+      },
+      {
+        "m": 3,
+        "x": [
+          2475,
+          2600
+        ],
+        "file": "/Users/houyuan/Documents/mywork/jianpu/work/p1/p1_L09_m03.png",
+        "size": [
+          1200,
+          2643
+        ]
+      }
+    ]
+  }
+}

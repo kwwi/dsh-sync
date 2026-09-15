@@ -1,0 +1,2820 @@
+{
+  "p1": [
+    {
+      "index": 2,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1.5
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn2",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn2",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn2",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "dn2",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn2",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1.5
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.125
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.125
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.75
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 3
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 2
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.75
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.75
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 4
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    }
+  ],
+  "p2": [
+    {
+      "index": 1,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 4
+            }
+          ],
+          "bass": [
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1.5
+            },
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 1
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 1.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.4
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.4
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 4,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 2,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.125
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 0,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 2
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 2
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 3
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 7,
+              "oct": "up1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "up1",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 5,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 3,
+              "oct": "mid",
+              "beats": 3
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "measures": [
+        {
+          "melody": [
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.25
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 3,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 4,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 2,
+              "oct": "up1",
+              "beats": 1
+            },
+            {
+              "n": 5,
+              "oct": "up1",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "up1",
+              "beats": 0.5
+            }
+          ],
+          "bass": [
+            {
+              "n": 2,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 1,
+              "oct": "up1",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 0.5
+            },
+            {
+              "n": 7,
+              "oct": "mid",
+              "beats": 1
+            },
+            {
+              "n": 5,
+              "oct": "mid",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 3,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        },
+        {
+          "melody": [
+            {
+              "n": 6,
+              "oct": "mid",
+              "beats": 3
+            },
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 1
+            }
+          ],
+          "bass": [
+            {
+              "n": 6,
+              "oct": "dn1",
+              "beats": 4.0
+            }
+          ],
+          "chord": null
+        }
+      ]
+    }
+  ]
+}

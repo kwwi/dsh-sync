@@ -1,0 +1,22 @@
+{
+  "p1": {
+    "2": "MEASURES: 4\nBOUNDS: 3.0% 25.0% 50.0% 75.0% 97.0%",
+    "3": "MEASURES: 4\nBOUNDS: 3.5% 25.5% 50.5% 75.5% 97.5%",
+    "4": "MEASURES: 4\nBOUNDS: 4.5% 25.5% 50.5% 75.5% 96.5%",
+    "5": "MEASURES: 4\nBOUNDS: 3.5% 25.5% 50.5% 75.5% 96.5%",
+    "6": "MEASURES: 4\nBOUNDS: 6.0% 28.5% 51.5% 74.5% 97.5%",
+    "7": "MEASURES: 3\nBOUNDS: 6.0% 37.5% 62.5% 94.0%",
+    "8": "MEASURES: 3\nBOUNDS: 7% 36% 63% 88%",
+    "9": "MEASURES: 3\nBOUNDS: 3.5% 39.5% 78.5% 99.5%"
+  },
+  "p2": {
+    "1": "MEASURES: 3\nBOUNDS: 7.0% 38.5% 69.5% 99.0%",
+    "2": "MEASURES: 2\nBOUNDS: 4% 50% 96%",
+    "3": "MEASURES: 2\nBOUNDS: 5.0 50.0 95.0",
+    "4": "MEASURES: 3\nBOUNDS: 7.5% 40.5% 73.5% 99.5%",
+    "5": "MEASURES: 3\nBOUNDS: 7.0% 39.5% 68.5% 94.5%",
+    "6": "MEASURES: 2\nBOUNDS: 7.5% 41.5% 98.5%",
+    "7": "MEASURES: 4\nBOUNDS: 3% 36% 59% 79% 97%",
+    "8": "MEASURES: 4\nBOUNDS: 7.5% 36.5% 57.5% 77.5% 96.5%"
+  }
+}

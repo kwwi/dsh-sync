@@ -1,0 +1,23 @@
+{
+  "src": "/Users/houyuan/Documents/mywork/jianpu/src/sbd2.jpg",
+  "tag": "p2",
+  "size": [
+    1800,
+    2400
+  ],
+  "crop_box": [
+    0,
+    0,
+    1536,
+    2048
+  ],
+  "skew_deg": -2.0,
+  "bands": [
+    [
+      0,
+      2399
+    ]
+  ],
+  "clean": "/Users/houyuan/Documents/mywork/jianpu/work/p2_clean.png",
+  "bin": "/Users/houyuan/Documents/mywork/jianpu/work/p2_bin.png"
+}

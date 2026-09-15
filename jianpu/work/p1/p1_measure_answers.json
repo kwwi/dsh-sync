@@ -1,0 +1,221 @@
+{
+  "2": {
+    "1": {
+      "0": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.25] [6|mid|0.25] [0|mid|0.5] [6|mid|0.5] [1|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.25] [6|mid|0.25] [0|mid|0.5] [6|mid|0.5] [1|mid|0.25] [6|mid|0.25]\nBASS: [6|dn1|2]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|2]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [0|mid|0.5] [2|dn1|0.5] [2|dn1|0.25] [2|dn1|0.25] [0|mid|0.5] [2|dn1|0.5] [2|dn1|0.25] [2|dn1|0.25]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [2|mid|0.25] [2|dn1|0.25] [0|mid|0.5] [2|mid|0.25] [2|dn1|0.25]\nBASS: [5|dn1|1]\nCHORD: none",
+      "2": "Based on the provided image of the handwritten jianpu manuscript, here is the transcription of the central complete measure:\n\nMELODY: [0|mid|0.5] [5|dn1|0.5] [2|dn1|0.5] [5|dn1|0.5] [0|mid|0.5] [5|dn1|0.5] [2|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "3": "MELODY: [2|mid|0.5] [2|dn1|0.25] [0|mid|0.5] [2|dn1|0.25] [2|mid|0.5] [2|dn1|0.25] [0|mid|0.5] [2|dn1|0.25]\nBASS: [5|dn1|1]\nCHORD: none",
+      "4": "MELODY: [2|mid|0.5] [0|mid|0.5] [2|dn1|0.5] [7|dn1|0.5] [2|mid|0.5] [0|mid|0.5] [2|dn1|0.5] [7|dn1|0.5]\nBASS: [5|dn2|2]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|dn1|0.5] [6|dn1|0.25] [1|dn1|0.25] [0|dn1|0.5] [6|dn1|0.25] [1|dn1|0.25]\nBASS: [4|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|dn1|0.25] [6|dn1|0.25] [1|dn1|0.25] [6|dn1|0.25] [0|dn1|0.25] [6|dn1|0.25] [1|dn1|0.25] [6|dn1|0.25]\nBASS: [4|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|dn1|0.5] [6|dn1|0.25] [1|dn1|0.5] [6|dn1|0.25] [0|dn1|0.5] [6|dn1|0.25] [1|dn1|0.5] [6|dn1|0.25]\nBASS: [4|dn1|2]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.25] [6|dn1|0.25] [6|dn1|0.25] [1|dn1|0.25] [0|mid|0.25] [6|dn1|0.25] [6|dn1|0.25] [1|dn1|0.25]\nBASS: [4|dn1|1]\nCHORD: none"
+    },
+    "4": {
+      "0": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn1|2]\nCHORD: none",
+      "1": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|4]\nCHORD: none",
+      "2": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5] [0|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none\nUNCLEAR: The last note in the melody appears to have both a dot and an underline; if the dot is a staccato mark, the duration is 0.5.",
+      "4": "MELODY: [0|dn2|0.5] [5|dn2|0.5] [7|dn2|0.5] [5|dn2|0.5] [0|dn2|0.5] [5|dn2|0.5] [7|dn2|0.5] [5|dn2|0.5]\nBASS: [5|dn2|4]\nCHORD: none"
+    }
+  },
+  "3": {
+    "1": {
+      "0": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5] [3|dn1|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5]\nBASS: [6|dn2|4]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [3|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|4]\nCHORD: none",
+      "2": "MELODY: [0|dn1|0.5] [6|dn1|0.25] [1|dn1|0.5] [6|dn1|0.25] [3|dn1|0.5] [6|dn1|0.25] [1|dn1|0.5] [6|dn1|0.25]\nBASS: [6|dn1|4]\nCHORD: none",
+      "3": "MELODY: [0|mid|1] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [3|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [3|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5]\nBASS: [6|dn1|4]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|1]\nCHORD: none",
+      "1": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn1|4]\nCHORD: none",
+      "2": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|1]\nCHORD: none",
+      "3": "MELODY: [0|dn1|0.25] [5|dn1|0.25] [7|dn1|0.25] [5|dn1|0.25] [3|dn1|0.25] [5|dn1|0.25] [7|dn1|0.25] [5|dn1|0.25]\nBASS: [5|dn1|1] [4|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|1]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5] [3|dn1|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5]\nBASS: [4|dn1|4]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|dn1|0.5] [6|dn1|0.5] [3|dn1|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5] [3|dn1|0.5] [6|dn1|0.5] [1|dn1|0.5] [6|dn1|0.5]\nBASS: [4|dn1|4]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [3|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [3|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none"
+    },
+    "4": {
+      "0": "MELODY: [0|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5] [3|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5] [3|mid|0.5] [5|mid|0.5] [7|mid|0.5] [5|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn2|1]\nCHORD: none",
+      "3": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn1|2]\nCHORD: none",
+      "4": "MELODY: [0|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [3|dn1|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5]\nBASS: [5|dn1|1]\nCHORD: none"
+    }
+  },
+  "4": {
+    "1": {
+      "0": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "2": "MELODY: [3|mid|0.25] [6|mid|0.25] [1|up1|0.25] [6|up1|0.25] [6|up1|0.25] [1|up1|0.25] [3|up1|0.25] [6|up1|0.25]\nBASS: [6|dn1|1]\nCHORD: none\n\nUNCLEAR: The bass note under the first measure has a dot that is positioned to its lower right, which could be interpreted as a dot below the note (dn1) or a dotted rhythm; however, the other bass notes in the next measure clearly have dots below them, so it is most likely a dot below (dn1).",
+      "3": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.5] [6|mid|0.5] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [6|dn1|0.5] [1|mid|0.5] [3|mid|0.5] [6|dn1|0.5]\nBASS: [6|dn1|2]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "To transcribe the central complete measure, we analyze the symbols between the two vertical bar lines:\n\n1.  **Melody (Top Line):**\n    *   **0 5:** Both notes have a single underline, indicating eighth notes (0.5 beats each). The `0` is a rest (mid octave), and `5` is a note with a dot below (dn1 octave).\n    *   **7 5:** Both notes have a single underline, indicating eighth notes (0.5 beats each). Both are in the mid octave.\n    *   **0 7:** Both notes have a single underline. The `0` is a rest (mid octave). The `7` has a dot below (dn1 octave).\n    *   **3 6:** Both notes have a single underline. Both are in the mid octave.\n\n2.  **Bass (Bottom Line):**\n    *   There is a single note `5` with two dots below (dn2 octave). It has a single underline, indicating an eighth note (0.5 beats).\n\n3.  **Chord:**\n    *   There are no chord letters written above this measure.\n\nMELODY: [0|mid|0.5] [5|dn1|0.5] [7|mid|0.5] [5|mid|0.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn2|0.5]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|1.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "4": "Based on the analysis of the handwritten musical notation:\n\nMELODY: [0|mid|0.5] [5|dn1|0.5] [7|mid|0.5] [5|dn1|0.5] [0|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [6|dn1|0.5] [1|mid|0.5] [3|mid|0.5] [6|dn1|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.25] [6|dn1|0.25] [6|dn1|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|mid|0.25] [6|dn1|0.25] [6|dn1|0.25] [1|mid|0.25] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [6|mid|0.5] [1|dn1|0.5] [6|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [6|dn1|0.5] [1|mid|0.5] [6|dn1|0.5] [6|dn1|0.5] [1|mid|0.5] [3|mid|0.5] [6|dn1|0.5]\nBASS: [4|dn1|1]\nCHORD: none"
+    },
+    "4": {
+      "0": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn2|0.5] [5|dn2|0.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn1|0.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|1]\nBASS: [5|dn1|2]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn2|0.5] [5|dn2|0.5] [0|dn1|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn1|0.5] [5|dn2|0.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.5] [5|dn1|0.5] [7|dn2|0.5] [5|dn2|0.5] [0|mid|0.5] [7|dn1|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|2]\nCHORD: none"
+    }
+  },
+  "5": {
+    "1": {
+      "0": "MELODY: [0|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.25] [3|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.25] [6|dn1|0.25]\nBASS: [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.25] [3|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.25] [6|dn1|0.25]\nBASS: [6|dn2|1]\nCHORD: none\nUNCLEAR: The specific octave dots for the bass notes starting from the second measure are obscured.",
+      "2": "MELODY: [0|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.25] [6|dn1|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.25] [6|dn1|0.25]\nBASS: [6|dn2|1] [5|dn2|1]\nCHORD: none\nUNCLEAR: there is a small sliver of the neighbouring measures at the far left and far right, but the central measure is completely readable.",
+      "3": "Based on the visual evidence in the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [0|mid|0.5] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.5] [3|mid|0.25] [6|dn1|0.25] [1|mid|0.25] [6|dn1|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.25] [6|dn1|0.25]\nBASS: [6|dn2|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.25] [6|dn1|0.25] [1|mid|0.5] [6|dn1|0.25] [3|mid|0.25] [6|mid|0.5] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [6|dn1|0.5] [5|mid|0.5]\nCHORD: none\nUNCLEAR: The exact octave dots of the first two notes (0 and 6) are slightly ambiguous due to the staff lines, but they appear to be in the lower octave. The bass notes at the end of the measure are partially cut off at the bottom edge of the crop."
+    },
+    "2": {
+      "0": "MELODY: [0|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [5|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [5|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.25] [5|mid|0.125] [7|mid|0.125] [5|mid|0.25] [3|mid|0.25] [5|mid|0.125] [7|mid|0.125] [5|mid|0.25] [5|mid|0.5] [7|mid|0.25] [3|mid|0.5] [6|mid|0.5]\nBASS: [5|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [5|mid|0.25] [7|mid|0.25] [5|mid|0.5] [3|mid|0.25] [5|mid|0.25] [7|mid|0.5] [5|mid|0.5] [7|mid|0.5] [3|mid|0.5] [6|mid|1]\nBASS: [5|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [5|mid|0.5] [7|mid|0.5] [3|mid|1] [6|mid|1]\nBASS: [5|dn1|2]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|1]\nBASS: [4|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|1]\nBASS: [4|mid|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [3|mid|0.25] [6|mid|0.25] [1|mid|0.25] [6|mid|0.25] [6|mid|0.5] [1|mid|0.5] [3|mid|0.5] [6|mid|0.5]\nBASS: [4|dn1|1]\nCHORD: none"
+    },
+    "4": {
+      "0": "MELODY: [0|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|0.25] [5|mid|0.25] [7|mid|0.25] [3|mid|0.25] [6|mid|0.25]\nBASS: [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [0|mid|0.25] [5|mid|0.25] [2|mid|1] [3|mid|0.25] [5|mid|0.25] [2|mid|1] [5|mid|0.5] [7|mid|0.25] [3|mid|0.25] [6|mid|1]\nBASS: [5|mid|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [2|mid|0.25] [5|mid|0.25] [5|mid|0.25] [7|mid|0.25] [3|mid|0.25] [6|mid|0.25]\nBASS: [5|dn1|0.5]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.25] [5|mid|0.25] [2|mid|0.25] [3|mid|0.25] [6|mid|0.5] [2|mid|0.25] [5|mid|0.25] [2|mid|0.25] [3|mid|0.25] [2|mid|0.25]\nBASS: [5|dn1|1]\nCHORD: none",
+      "4": "MELODY: [0|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [3|mid|0.25] [5|mid|0.25] [7|mid|0.25] [5|mid|0.25] [5|mid|0.25] [7|mid|0.25] [3|mid|0.25] [6|mid|0.25]\nBASS: [5|dn1|1]\nCHORD: none"
+    }
+  },
+  "6": {
+    "1": {
+      "0": "MELODY: [1|mid|0.25] [3|mid|0.25] [2|mid|0.25] [3|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|mid|0.25] [3|mid|0.25] [6|mid|0.25] [3|mid|0.25] [5|mid|0.25] [3|mid|0.25] [6|mid|1]\nBASS: [6|dn1|1] [5|dn1|1]\nCHORD: none",
+      "1": "MELODY: [1|mid|0.25] [3|mid|0.25] [2|mid|0.25] [3|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|mid|0.25] [3|mid|0.25] [6|mid|0.25] [3|mid|0.25] [5|mid|0.25] [3|mid|0.25] [6|mid|0.5]\nBASS: [6|dn1|2]\nCHORD: none\nUNCLEAR: The exact rhythmic values of the first four groups of notes in the melody are ambiguous due to overlapping and unclear underlines; I interpreted them as groups of four 1/16 notes (0.25 beats each) followed by a single 1/8 note (0.5 beats). Additionally, the presence of dots above the melody notes is uncertain.",
+      "2": "MELODY: [1|mid|0.25] [3|mid|0.25] [2|mid|0.25] [3|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|dn1|0.25] [3|mid|0.25] [6|mid|0.25] [3|mid|0.25] [5|mid|0.25] [3|mid|0.25] [6|mid|1]\nBASS: [6|dn1|2]\nCHORD: none",
+      "3": "Based on the analysis of the magnified handwritten jianpu manuscript, here is the transcription of the central complete measure:\n\nMELODY: [1|mid|0.25] [3|mid|0.25] [2|mid|0.25] [3|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|dn1|0.25] [3|mid|0.25] [6|dn1|0.25] [3|mid|0.25] [5|mid|0.25] [3|mid|0.25] [6|mid|1]\nBASS: [6|dn1|1] [5|mid|1] [6|dn1|1]\nCHORD: none",
+      "4": "MELODY: [1|mid|0.25] [3|mid|0.25] [2|mid|0.25] [3|mid|0.25] [1|mid|0.25] [3|mid|0.25] [7|dn1|0.25] [3|mid|0.25] [6|mid|0.25] [3|mid|0.25] [5|mid|0.25] [3|mid|0.25] [6|mid|1]\nBASS: [6|dn1|1]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [6|dn1|0.25] [1|dn1|0.25] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|0.5] [2|dn1|0.5] [3|dn1|",
+      "1": "MELODY: [6|dn1|0.25] [1|dn1|0.25] [2|dn1|0.25] [3|dn1|0.25] [2|dn1|0.5] [2|dn1|0.5] [2|dn1|1] [2|dn1|1] [2|dn1|1]\nBASS: [6|dn1|1] [6|dn1|3]\nCHORD: none",
+      "2": "MELODY: [6|dn1|0.25] [1|dn1|0.25] [2|mid|0.25] [3|mid|1.5] [3|mid|1.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "3": "MELODY: [6|dn1|0.125] [1|dn1|0.125] [2|mid|0.5] [3|mid|0.5] [2|mid|1] [2|mid|1] [2|mid|1]\nBASS: [6|dn1|1]\nCHORD: none",
+      "4": "MELODY: [6|dn1|0.5] [1|mid|0.5] [2|mid|0.25] [3|mid|0.25] [2|mid|1] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|4]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|1] [3|mid|1]\nBASS: [5|dn1|4]\nCHORD: none",
+      "1": "MELODY: [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [5|dn1|4]\nCHORD: 4/4 5/3",
+      "2": "MELODY: [1|mid|0.5] [2|mid|0.5] [2|mid|1] [4|mid|1] [3|mid|2] [5|up1|1] [3|up1|1]\nBASS: [5|dn1|4]\nCHORD: none",
+      "3": "Based on the visual evidence in the magnified crop, here is the transcription of the central measure:\n\nMELODY: [1|mid|1] [2|mid|0.5] [2|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [5|dn1|2]\nCHORD: none\n\n**Notes on the transcription:**\n*   **Melody:** The measure begins with a group of two notes (`1` and `2`) under a single underline, indicating two half-beat notes (0.5 each). This is followed by another group of two notes (`2` and `4`) also under a single underline. The note `3` follows with no underline but is followed by two dashes, giving it a total of 2 beats (1 + 1 + 1). Wait, based on the visual, the `3` has a single underline in the group `243`, so the `3` is 0.5 beats. However, the dash after the group is a separate rest/extension. Let's re-examine: `1 2` (underlined) = 1 beat total. `2 4 3` (underlined) = 1.5 beats total (0.5 each). Then two dashes = 2 beats. Total = 4.5 beats. This is likely a 4/4 measure where the `3` is a 1-beat note and the first `2` is a 1-beat note, and `1` is a 1-beat note. The underlines suggest `1` is 0.5, `2` is 0.5, `2` is 0.5, `4` is 0.5, `3` is 1 (no underline, but followed by dashes). Let's assume the standard notation: `1 2` (0.5 each), `2 4` (0.5 each), `3` (1 beat) + `-` (1 beat) + `-` (1 beat) = 4 beats total. The `1 2` are under one underline, so they are eighth notes. The `2 4 3` are under one underline, so they are also eighth notes. Then the `3` has a dash after it, which would make it 1.5 beats if it's a dotted note, but it's followed by another dash. It's likely a 4/4 measure with `1 2` (0.5+0.5), `2 4` (0.5+0.5), `3` (1) + `-` (1) + `-` (1) = 4 beats. The transcription above reflects the most likely reading of the symbols.\n*   **BASS:** There is a single `5` with one dot below it (dn1) and a dash below it, indicating a 2-beat note.\n*   **CHORD:** No chord symbols are visible above the measure.",
+      "4": "Based on the visual information in the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [1|mid|0.5] [2|mid|0.5] [2|mid|1] [4|mid|1] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [5|dn1|4]\nCHORD: none\n\n**Explanation of the reading:**\n*   **MELODY:** The measure starts with two eighth notes (1 and 2) indicated by a single underline. This is followed by a quarter note (2) with no underline. Then a quarter note (4) and a quarter note (3). The measure ends with two dashes, each representing a one-beat rest (0).\n*   **BASS:** A single note \"5\" is present below the staff. It has a single dot below it, indicating it is in the lower octave (dn1). The lack of underlines and presence of a line extending through the measure suggests a full four-beat duration.\n*   **CHORD:** No chord symbols are written above this measure."
+    },
+    "4": {
+      "0": "MELODY: [3|mid|1] [3|mid|1]\nBASS: [4|mid|1] [3|mid|1]\nCHORD: none",
+      "1": "MELODY: [5|up1|1] [0|mid|1] [0|mid|1]\nBASS: [4|mid|1] [3|mid|1] [0|mid|1] [0|mid|1]\nCHORD: none\n\nNote: The central complete measure is the one containing the \"5\" with an upper dot and two dashes. The \"43\" on the left belongs to the previous measure, and the vertical line on the right marks the end of the central measure.",
+      "2": "Based on the visual evidence in the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [0|mid|1] [0|mid|1]\nBASS: [4|dn1|0.5] [3|dn1|0.5]\nCHORD: none\n\n**Notes:**\n*   The melody consists of two distinct horizontal dashes in the upper space, which indicate two sustained notes of 1 beat each. Since there are no numbers preceding them within this measure, they represent a continuation of the previous note (likely `0` based on the sliver of the preceding measure).\n*   The bass line contains the numbers `4` and `3`, both with a single dot below (`dn1`) and a single underline (`0.5` beats each).\n*   The measure is bounded by a vertical barline on the right.\n*   There are no chord letters written above the measure.",
+      "3": "Based on the visual evidence in the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [4|mid|1] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [3|mid|1] [0|mid|1] [0|mid|1] [0|mid|1]\nCHORD: 15\n\n**Notes on transcription:**\n- **Melody:** The measure begins with the notes `4` and `3`, each followed by a dash (`-`) indicating they are held for 1 beat each. The subsequent two dashes are treated as rests (0) for 1 beat each to complete the 4/4 measure.\n- **Bass:** The number `3` is present in the lower staff, followed by three dashes (`-`), indicating a 1-beat note followed by three 1-beat rests.\n- **Chord:** The numbers `15` are written vertically above the measure, indicating a chord (likely C major, as 1 and 5 correspond to C and G in the key of C).\n- **UNCLEAR:** The far left edge contains a small sliver of a number (possibly a `2`) and its underline from the previous measure, which have been excluded from the transcription as per instructions.",
+      "4": "Based on the analysis of the magnified crop from the handwritten jianpu manuscript:\n\n1.  **Identify the Measure:** The central complete measure is defined by the vertical bar lines on the left (implied by the sliver of the previous measure) and the solid vertical bar line on the right.\n2.  **Analyze the Melody (Top Line):**\n    *   The first note is a `3` with an octave dot above it (`up1`). It has a single underline, indicating an eighth note duration (`0.5` beats).\n    *   This is followed by two dash symbols (`-`), each representing a duration of 1 beat.\n    *   Total beats for this measure: 0.5 (note) + 1 (dash) + 1 (dash) = 2.5 beats.\n3.  **Analyze the Bass (Bottom Line):**\n    *   There are no numbers written in the space between the dotted lines for this central measure.\n4.  **Analyze the Chord Symbols:**\n    *   Above the measure, there is a handwritten `15` (or possibly `1.5`), which functions as a chord label for this section.\n\nMELODY: [3|up1|0.5] [0|mid|1] [0|mid|1]\nBASS: \nCHORD: 15"
+    }
+  },
+  "7": {
+    "1": {
+      "0": "MELODY: [6|dn1|0.5] [1|dn1|0.5] [1|dn1|0.25] [2|dn1|0.25] [3|dn1|0.25] [2|dn1|0.25] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [6|dn1|0.5] [1|dn1|0.25] [1|mid|0.25] [2|mid|0.25] [3|mid|0.25] [2|mid|1] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] [6|dn1|1] [0|mid|1]\nCHORD: none",
+      "2": "MELODY: [6|dn1|1] [1|mid|1] [1|mid|0.75] [2|mid|0.25] [3|mid|0.25] [2|mid|0.25] [0|mid|0.5] [0|mid|0.5]\nBASS: [6|dn1|0.5] [6|dn1|0.5]\nCHORD: none",
+      "3": "MELODY: [6|up1|1] [1|up1|0.5] [1|up1|0.25] [2|up1|0.25] [3|up1|0.25] [2|up1|0.25] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] [6|dn1|0.5] [1|mid|0.5] [6|dn1|1]\nCHORD: none\n\nUNCLEAR: The slurs/ties and exact rhythmic underlines in the middle section (notes 1 2 3 2) are difficult to disambiguate; the transcription assumes a grouping of 0.25 beats for each of these four notes following the initial two notes of the measure.",
+      "4": "Based on the visual evidence in the magnified crop, here is the transcription of the central measure:\n\nMELODY: [6|mid|0.5] [1|mid|0.5] [1|mid|0.5] [3|mid|0.25] [2|mid|0.25] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1]\nCHORD: none\n\nUNCLEAR: The exact rhythmic value of the final two dashes in the melody line is ambiguous; they are interpreted here as two separate half-beat rests or sustained notes based on standard jianpu conventions for this layout."
+    },
+    "2": {
+      "0": "MELODY: [1|mid|0.5] [2|mid|0.5] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [6|dn1|1]\nBASS: [6|dn1|4]\nCHORD: none",
+      "1": "MELODY: [1|mid|0.5] [2|mid|0.5] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [6|dn1|1]\nBASS: [6|dn1|4]\nCHORD: none",
+      "2": "MELODY: [1|mid|0.75] [2|mid|0.25] [7|dn1|0.5] [6|dn1|0.5] [6|dn1|1] [6|dn1|1]\nBASS: [6|dn1|4]\nCHORD: none",
+      "3": "MELODY: [1|mid|0.75] [2|mid|0.75] [7|mid|0.5] [6|mid|0.5] [6|mid|1] [6|mid|1]\nBASS: [6|dn1|2]\nCHORD: none",
+      "4": "Based on the image provided, here is the transcription of the central complete measure:\n\nMELODY: [1|mid|0.5] [2|mid|0.5] [7|mid|0.5] [6|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|4]\nCHORD: none"
+    },
+    "3": {
+      "0": "Based on the visual evidence in the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|1] [0|mid|1]\nBASS: [5|dn1|1] [5|dn1|1]\nCHORD: none\n\n**Explanation of the transcription:**\n*   **MELODY:** The central measure contains four groups of notes. The first three groups are pairs of eighth notes (indicated by single underlines), transcribed as `3 2`, `3 1`, and `2 1`. The final group consists of a quarter note `2` followed by a dash `-`, which represents a one-beat extension, totaling two beats for that group. The final `0` represents the remaining beat of the measure to complete the 4/4 time signature.\n*   **BASS:** The two notes at the bottom of the staff are both `5` with a single dot below them (dn1), each with a single underline indicating they are eighth notes. Since there are only two notes shown in the bass for this measure, they are transcribed as two separate one-beat events to fill the measure.\n*   **CHORD:** There are no chord symbols written above the measure.",
+      "1": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|1]\nBASS: [5|mid|2] [5|mid|2]\nCHORD: none",
+      "2": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [0|mid|1]\nBASS: [5|dn1|1] [5|dn1|1]\nCHORD: none",
+      "3": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [2|mid|0.25] [0|mid|1]\nBASS: [5|dn1|1] [5|dn1|1]\nCHORD: none",
+      "4": "MELODY: [3|mid|0.5] [2|mid|1] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [0|mid|1]\nBASS: [5|dn1|0.5] [5|dn1|0.5]\nCHORD: none"
+    }
+  },
+  "8": {
+    "1": {
+      "0": "MELODY: [1|mid|0.75] [2|mid|0.25] [1|mid|0.5] [4|mid|0.5] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [4|dn1|4]\nCHORD: none",
+      "1": "MELODY: [1|mid|0.75] [2|mid|0.25] [1|mid|0.5] [4|mid|0.5] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [4|dn1|4]\nCHORD: none",
+      "2": "MELODY: [1|mid|1] [2|mid|0.5] [1|mid|0.5] [4|mid|0.5] [3|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [4|dn1|4]\nCHORD: none",
+      "3": "MELODY: [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [4|mid|0.5] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [4|dn1|4]\nCHORD: none",
+      "4": "MELODY: [1|mid|1.5] [2|mid|0.5] [1|mid|0.5] [4|mid|0.5] [3|mid|1] [0|mid|1] [0|mid|1]\nBASS: [4|dn1|4]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.25] [2|mid|0.25] [2|mid|0.5] [0|mid|1]\nBASS: [5|dn1|1] [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [3|mid|1] [2|mid|1] [3|mid|1] [1|mid|1] [2|mid|1] [2|mid|1] [2|mid|1] [0|mid|1]\nBASS: [5|dn1|3]\nCHORD: none\nUNCLEAR: the dash following the last 2 in the central measure is not part of a note duration but appears to be a separator or rest symbol.",
+      "2": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [2|mid|0.5] [1|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [5|dn1|2]\nCHORD: none",
+      "3": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [1|mid|0.5] [2|mid|0.5] [2|mid|0.5] [2|mid|0.5] [2|mid|1]\nBASS: [5|dn1|1] [0|mid|0] [6|mid|1]\nCHORD: none",
+      "4": "MELODY: [3|mid|0.5] [2|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.25] [2|mid|0.25] [2|mid|0.5] [1|mid|0.5] [3|mid|1]\nBASS: [5|dn1|1] [6|dn1|1]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [1|mid|0.5] [2|mid|0.5] [7|dn1|0.5] [6|dn1|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|4]\nCHORD: none",
+      "1": "MELODY: [1|mid|0.5] [2|mid|0.5] [7|mid|0.25] [6|mid|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] [0|mid|3]\nCHORD: none",
+      "2": "Based on the visual evidence from the magnified crop, here is the transcription of the central complete measure:\n\nMELODY: [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.5] [6|dn1|0.5] [6|dn1|1] [6|dn1|1] [6|dn1|1]\nBASS: [6|dn1|4]\nCHORD: none\n\n**Explanation of reading:**\n*   **Melody:** The measure starts with two pairs of sixteenth notes (double underlined): `1` and `2` below the middle line, followed by `1` and `7` (with a dot below). This is followed by a group of three quarter notes (single underlined): `6`, `6`, and `6`, all with dots below.\n*   **Bass:** There is a single `6` with a dot below in the lower staff, followed by three dashes indicating it is held for a full measure (4 beats).\n*   **CHORD:** No chord letters are written above this measure.",
+      "3": "MELODY: [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [7|dn1|0.25] [6|dn1|0.25] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|1] [5|dn1|2]\nCHORD: none",
+      "4": "MELODY: [6|mid|0.5] [2|mid|0.5] [7|dn1|0.5] [6|dn1|0.5] [0|mid|1] [0|mid|1]\nBASS: [6|dn1|4]\nCHORD: none"
+    }
+  },
+  "9": {
+    "1": {
+      "0": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.25] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [7|dn1|0.25]\nBASS: [5|dn1|1] [4|dn1|1]\nCHORD: none",
+      "1": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [3|mid|0.5] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|0.5] [2|mid|0.25] [1|mid|0.25] [7|dn1|0.5]\nBASS: [5|dn1|1] [4|dn1|1]\nCHORD: none",
+      "2": "MELODY: [3|mid|0.5] [2|mid|0.5] [3|mid|0.5] [3|mid|0.25] [4|mid|0.25] [3|mid|0.25] [1|mid|0.25] [2|mid|0.5] [1|mid|0.5] [2|mid|0.5] [1|mid|0.25] [7|dn1|0.25]\nBASS: [5|dn1|1]\nCHORD: none\nUNCLEAR: The note after the second 3 in the second group is written as a 4 but has an unclear downward stroke that may make it a 5.",
+      "3": "MELODY: [3|mid|1] [2|mid|1] [3|mid|1] [3|mid|0.5] [4|mid|0.25] [3|mid|0.25] [1|mid|0.5] [2|mid|0.5] [1|mid|1] [2|mid|1] [1|mid|0.5] [7|dn1|0.5]\nBASS: [5|dn1|4]\nCHORD: none",
+      "4": "MELODY: [3|mid|1] [2|mid|0.5] [3|mid|1] [3|mid|0.5] [4|mid|1] [3|mid|0.5] [2|mid|1.5] [1|mid|0.5] [2|mid|1] [1|mid|0.5] [7|dn1|1]\nBASS: [5|dn1|4]\nCHORD: none"
+    },
+    "2": {
+      "0": "MELODY: [6|dn1|0.5] [7|dn1|0.5] [1|mid|0.5] [2|mid|0.5] [1|dn1|0.25] [7|dn1|0.25] [1|dn1|0.25] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [0|mid|0.5] [1|mid|0.25] [2|mid|0.25]\nBASS: [4|dn1|1] [6|dn1|1]\nCHORD: none",
+      "1": "MELODY: [6|dn1|0.5] [7|dn1|0.25] [1|mid|0.25] [2|mid|0.5] [7|dn1|0.5] [1|dn1|0.5] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [0|mid|0.5] [1|mid|0.5] [2|mid|0.5]\nBASS: [6|dn1|1] [0|mid|1] [4|dn1|1] [0|mid|1] [6|dn1|1] [0|mid|1]\nCHORD: none",
+      "2": "MELODY: [6|dn2|0.5] [7|dn2|0.5] [1|dn1|0.5] [2|dn1|0.5] [1|dn1|0.25] [7|dn1|0.25] [1|dn1|0.25] [7|dn1|0.25] [6|dn1|0.25] [6|mid|1] [0|mid|0.25] [1|mid|0.25] [2|mid|0.5]\nBASS: [4|dn1|1] [6|dn1|1] [6|dn1|1]\nCHORD: none",
+      "3": "MELODY: [6|dn1|0.5] [7|dn1|0.5] [1|mid|0.5] [2|mid|0.5] [1|dn1|0.25] [7|dn1|0.25] [1|dn1|0.25] [7|dn1|0.25] [6|dn1|0.25] [6|dn1|1] [0|mid|0.5] [1|mid|0.25] [2|mid|0.25]\nBASS: [4|dn1|1] [6|dn1|1]\nCHORD: none",
+      "4": "MELODY: [6|dn1|0.5] [7|dn1|0.5] [1|mid|0.5] [2|mid|0.5] [1|dn1|0.25] [7|dn1|0.25] [1|dn1|0.25] [7|dn1|0.25] [6|dn1|0.5] [6|dn1|0.5] [0|mid|1] [1|mid|1] [2|mid|0.5]\nBASS: [4|dn1|1] [6|dn1|1]\nCHORD: none"
+    },
+    "3": {
+      "0": "MELODY: [0|mid|0.25] [1|mid|0.25] [2|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none\n\nUNCLEAR: The central measure contains a large \"X\" mark and the text \"6遍\" (meaning \"repeat 6 times\") written above the staff. It is unclear if the \"X\" is a musical symbol or a deletion mark, and the \"6遍\" is a performance instruction rather than a chord.",
+      "1": "MELODY: [0|mid|0.25] [1|mid|0.25] [2|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "2": "MELODY: [0|mid|0.25] [1|mid|0.25] [2|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none",
+      "3": "MELODY: [0|mid|0.5] [1|mid|0.25] [2|mid|0.25]\nBASS: [6|dn1|1]\nCHORD: X",
+      "4": "MELODY: [0|mid|0.25] [1|mid|0.25] [2|mid|0.5]\nBASS: [6|dn1|1]\nCHORD: none"
+    }
+  }
+}

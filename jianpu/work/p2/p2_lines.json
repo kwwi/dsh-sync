@@ -1,0 +1,105 @@
+{
+  "tag": "p2",
+  "page": [
+    1536,
+    2048
+  ],
+  "strips": [
+    {
+      "idx": 1,
+      "band": [
+        185,
+        319
+      ],
+      "size": [
+        2600,
+        297
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L01.png"
+    },
+    {
+      "idx": 2,
+      "band": [
+        319,
+        426
+      ],
+      "size": [
+        2600,
+        242
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L02.png"
+    },
+    {
+      "idx": 3,
+      "band": [
+        426,
+        733
+      ],
+      "size": [
+        2600,
+        648
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L03.png"
+    },
+    {
+      "idx": 4,
+      "band": [
+        733,
+        945
+      ],
+      "size": [
+        2600,
+        457
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L04.png"
+    },
+    {
+      "idx": 5,
+      "band": [
+        945,
+        1179
+      ],
+      "size": [
+        2600,
+        501
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L05.png"
+    },
+    {
+      "idx": 6,
+      "band": [
+        1179,
+        1395
+      ],
+      "size": [
+        2600,
+        463
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L06.png"
+    },
+    {
+      "idx": 7,
+      "band": [
+        1395,
+        1623
+      ],
+      "size": [
+        2600,
+        487
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L07.png"
+    },
+    {
+      "idx": 8,
+      "band": [
+        1623,
+        2047
+      ],
+      "size": [
+        2600,
+        804
+      ],
+      "file": "/Users/houyuan/Documents/mywork/jianpu/work/p2/p2_L08.png"
+    }
+  ]
+}
