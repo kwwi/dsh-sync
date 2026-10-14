@@ -5,6 +5,8 @@ nodeLinker: hoisted
 autoInstallPeers: false
 minimumReleaseAge: 0
 minimumReleaseAgeExclude:
+  - '*'
+  - '@*/*'
   - '@linxin666/dsh-chat-recovery@0.3.4'
   - '@linxin666/dsh-client-ui-aionui-panel@0.3.4'
   - '@linxin666/dsh-client-ui-community-plugins@0.3.4'
