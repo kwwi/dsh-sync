@@ -28,13 +28,14 @@
         "path": "/Users/houyuan/Documents/mywork",
         "title": "mywork",
         "sessionIds": [
+          "session-4e555797-98d9-49a5-9a7e-2e4003e75b65",
           "session-73259531-f82a-4236-b0b6-ada31613cee1",
           "session-d1a2b963-e429-4f7f-a9c8-35f5c5f8d974",
           "session-9cbe8750-5535-45e7-bbb8-d2fcfae5c4ff",
           "session-d388a3f7-42f1-489c-8508-5b339e4b5aa9"
         ],
         "createdAt": "2026-08-26T09:56:21.477Z",
-        "updatedAt": "2026-09-15T03:01:22.418Z"
+        "updatedAt": "2026-10-15T01:12:43.062Z"
       }
     }
   }
