@@ -12,11 +12,11 @@ importers:
         specifier: 0.3.6
         version: 0.3.6(zod@4.6.7)
       dsh-context:
-        specifier: 0.33.1
-        version: 0.33.1(zod@4.6.7)
+        specifier: 0.73.3
+        version: 0.73.3
       dsh-sync-plugin:
-        specifier: ^0.11.5
-        version: 0.11.5
+        specifier: ^0.12.8
+        version: 0.12.8
       dshmarket:
         specifier: 1.31.1
         version: 1.31.1
@@ -804,25 +804,28 @@ packages:
       cordis:
         optional: true
 
-  dsh-context@0.33.1:
-    resolution: {integrity: sha512-R91poOtlX8attb9V1oqprWns1iZD1titgt7Obc11XxnpfE+RzsEUcynhAviY/oAHGAyYMT8pAw1CjneTA9MS2A==}
+  dsh-context@0.73.3:
+    resolution: {integrity: sha512-JMVZWpUNOYMOVuxduNf/22Wm4KP/H1BiYhFkw21pgnfMIvsvPMsSSJrsDcssv9Nf0oYNGgOKMeNOx+8yyG4M5w==}
+    engines: {dsh: '>=0.1.7-rc.2 || >=0.2.0-rc.2', node: ^22.19.0 || >=24.0.0}
     peerDependencies:
-      '@deepseek-ai/cordis': ^4.0.1
-      '@deepseek-ai/dsh-client-ui-primitives': ^0.1.0-rc.7
-      '@deepseek-ai/dsh-session': ^0.1.0-rc.7
-      '@deepseek-ai/dsh-settings': ^0.1.0-rc.7
-      '@deepseek-ai/schemastery': ^3.18.1
+      '@deepseek-ai/cordis': ^4.0.4
+      '@deepseek-ai/dsh-client-ui-primitives': '>=0.1.7-rc.2'
+      '@deepseek-ai/dsh-session': '>=0.1.7-rc.2'
+      '@deepseek-ai/schemastery': ^3.18.2
       react: ^18.3.1
-      zod: ^4.4.3
+      react-dom: ^18.3.1
     peerDependenciesMeta:
       '@deepseek-ai/dsh-client-ui-primitives':
         optional: true
       react:
         optional: true
+      react-dom:
+        optional: true
 
-  dsh-sync-plugin@0.11.5:
-    resolution: {integrity: sha512-FUlUEXEXlSQMCS+lN8JwYS1A7oD7ti8PXkIFbLPq0KTKYySyyOKPj7GE1R0GYTOndDzd133vc83/SB4txZIsIQ==}
-    engines: {node: '>=20'}
+  dsh-sync-plugin@0.12.8:
+    resolution: {integrity: sha512-8cOAjHfxhp3BXR/J2CkCuZSntvlcO2IQ4OLU9sx5JYbfUBq+cU9B7xZ2AIlS30fylJzZOFmz/90YYqXYqzhLmQ==}
+    engines: {dsh: '>=0.1.5-rc.3', node: '>=20'}
+    deprecated: Renamed to @dpskk2/dsh-chatsync. Install the new package to receive future updates.
 
   dshmarket@1.31.1:
     resolution: {integrity: sha512-pQGWkqa58+8VzvLh7c0uqUx0T/3taJTyjc4zRCyy585sAQk51Pft8Sgyu4615Ok+/gstKjrQ/GVemOSL+aQcGg==}
@@ -2114,11 +2117,11 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  dsh-context@0.33.1(zod@4.6.7):
+  dsh-context@0.73.3:
     dependencies:
       zod: 4.6.7
 
-  dsh-sync-plugin@0.11.5: {}
+  dsh-sync-plugin@0.12.8: {}
 
   dshmarket@1.31.1:
     dependencies:
