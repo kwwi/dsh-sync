@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@linxin666/dsh-web-ui-all": "0.3.6",
+    "dsh-better-sidebar": "0.28.0",
     "dsh-context": "0.33.1",
     "dsh-sync-plugin": "^0.11.5",
     "dshmarket": "1.31.1"
@@ -15,7 +16,8 @@
         "@linxin666/dsh-web-ui-all",
         "dsh-context",
         "dshmarket",
-        "dsh-sync-plugin"
+        "dsh-sync-plugin",
+        "dsh-better-sidebar"
       ]
     }
   }
