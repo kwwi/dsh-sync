@@ -10,19 +10,16 @@ importers:
     dependencies:
       '@linxin666/dsh-web-ui-all':
         specifier: 0.3.6
-        version: 0.3.6(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)
-      dsh-better-sidebar:
-        specifier: 0.28.0
-        version: 0.28.0
+        version: 0.3.6(zod@4.6.7)
       dsh-context:
         specifier: 0.33.1
-        version: 0.33.1(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)
+        version: 0.33.1(zod@4.6.7)
       dsh-sync-plugin:
         specifier: ^0.11.5
         version: 0.11.5
       dshmarket:
         specifier: 1.31.1
-        version: 1.31.1(@deepseek-ai/schemastery@3.18.5)
+        version: 1.31.1
 
 packages:
 
@@ -77,9 +74,6 @@ packages:
   '@codemirror/lang-sql@6.10.0':
     resolution: {integrity: sha512-6ayPkEd/yRw0XKBx5uAiToSgGECo/GY2NoJIHXIIQh1EVwLuKoU8BP/qK0qH5NLXAbtJRLuT73hx7P9X34iO4w==}
 
-  '@codemirror/lang-vue@0.1.3':
-    resolution: {integrity: sha512-QSKdtYTDRhEHCfo5zOShzxCmqKJvgGrZwDQSdbvCRJ5pRLWBS7pD/8e/tH44aVQT6FKm0t6RVNoSUWHOI5vNug==}
-
   '@codemirror/lang-xml@6.1.0':
     resolution: {integrity: sha512-3z0blhicHLfwi2UgkZYRPioSgVTo9PV5GP5ducFH6FaHy0IAJRg+ixj5gTR1gnT/glAIC8xv4w2VL1LoZfs+Jg==}
 
@@ -106,15 +100,6 @@ packages:
 
   '@codemirror/view@6.43.14':
     resolution: {integrity: sha512-hC45YnmJNR1rz42OF57BLoQNFMV12/13drnvibDsR2quNDmldcb4WvYVV81hFQg56i9lcqQMEDqilhX2QDcGQQ==}
-
-  '@deepseek-ai/cosmokit@1.8.6':
-    resolution: {integrity: sha512-ZSD/fN52L498LBIOYwjIOlaLv5veY6ZEwI2yzvZUKQtctn0QAPqu8tKdJ+OF5+Tv6NBq1U+wJWH+QI6OGy5EvQ==}
-
-  '@deepseek-ai/schemastery@3.18.5':
-    resolution: {integrity: sha512-Mnobvqf9rHsZYv4g5edj5ddxS1oF1kIdSlz0DunUgnY3LWG5F26MqvH3YOOsSaodCgyzJ16OMN9O99/s5Crtdw==}
-
-  '@formkit/auto-animate@0.10.0':
-    resolution: {integrity: sha512-KGomRttjUfORuPUaR/ZGQw+6xfMrTM+sxnILv7JAd9AmabU9rg9i6gF/iC0Ih+QpKCubJpCA/1DX9UHKE8cX+A==}
 
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
@@ -819,33 +804,6 @@ packages:
       cordis:
         optional: true
 
-  dsh-better-sidebar@0.28.0:
-    resolution: {integrity: sha512-x7+/YmH/HrSlXWOBZkhL7qQqcDgZEnDcWrhR5GlizzUZjz+w84FbQ6jo8trJC9tyaQxMaNvXVnXwDxn4I330Ew==}
-    engines: {node: '>=20'}
-    peerDependencies:
-      '@deepseek-ai/cordis': ^4.0.5
-      '@deepseek-ai/dsh-agent': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-locale': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-ui-conversation': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-ui-primitives': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-ui-settings': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-ui-sidebar-right': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-client-ui-slots': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-host-webserver': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-llm': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-session': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-settings': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-subagent': ^0.2.1-rc.1
-      '@deepseek-ai/dsh-tools': ^0.2.1-rc.1
-      '@huanlin/dsh-plugin-better-locale': ^0.1.0
-      react: ^18.2.0
-      react-dom: ^18.2.0
-    peerDependenciesMeta:
-      '@deepseek-ai/dsh-client-ui-sidebar-right':
-        optional: true
-      '@huanlin/dsh-plugin-better-locale':
-        optional: true
-
   dsh-context@0.33.1:
     resolution: {integrity: sha512-R91poOtlX8attb9V1oqprWns1iZD1titgt7Obc11XxnpfE+RzsEUcynhAviY/oAHGAyYMT8pAw1CjneTA9MS2A==}
     peerDependencies:
@@ -1293,15 +1251,6 @@ snapshots:
       '@lezer/highlight': 1.2.5
       '@lezer/lr': 1.4.11
 
-  '@codemirror/lang-vue@0.1.3':
-    dependencies:
-      '@codemirror/lang-html': 6.4.12
-      '@codemirror/lang-javascript': 6.2.5
-      '@codemirror/language': 6.13.1
-      '@lezer/common': 1.5.3
-      '@lezer/highlight': 1.2.5
-      '@lezer/lr': 1.4.11
-
   '@codemirror/lang-xml@6.1.0':
     dependencies:
       '@codemirror/autocomplete': 6.20.3
@@ -1359,15 +1308,6 @@ snapshots:
       crelt: 1.0.7
       style-mod: 4.1.4
       w3c-keyname: 2.2.8
-
-  '@deepseek-ai/cosmokit@1.8.6': {}
-
-  '@deepseek-ai/schemastery@3.18.5':
-    dependencies:
-      '@deepseek-ai/cosmokit': 1.8.6
-      '@standard-schema/spec': 1.1.0
-
-  '@formkit/auto-animate@0.10.0': {}
 
   '@iconify/types@2.0.0': {}
 
@@ -1542,7 +1482,7 @@ snapshots:
     dependencies:
       schemastery: 3.18.0
 
-  '@linxin666/dsh-web-ui-all@0.3.6(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)':
+  '@linxin666/dsh-web-ui-all@0.3.6(zod@4.6.7)':
     dependencies:
       '@linxin666/dsh-client-ui-aionui-panel': 0.3.6
       '@linxin666/dsh-client-ui-community-plugins': 0.3.6
@@ -1562,7 +1502,7 @@ snapshots:
       '@linxin666/dsh-ssh': 0.3.6
       '@linxin666/dsh-tool-describe-image': 0.3.6
       '@mlgbnb/dsh-archive-manager': 1.0.7
-      '@morlay/better-session': 0.0.11(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)
+      '@morlay/better-session': 0.0.11(zod@4.6.7)
       dsh-better-sidebar: 0.15.2
     transitivePeerDependencies:
       - '@aws-sdk/client-rds-data'
@@ -1645,10 +1585,10 @@ snapshots:
 
   '@mlgbnb/dsh-archive-manager@1.0.7': {}
 
-  '@morlay/better-session@0.0.11(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)':
+  '@morlay/better-session@0.0.11(zod@4.6.7)':
     dependencies:
       '@morlay/session-branch': 0.0.11
-      '@morlay/session-rdb': 0.0.11(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)
+      '@morlay/session-rdb': 0.0.11(zod@4.6.7)
       '@morlay/ui-conversation-message-actions': 0.0.11
     transitivePeerDependencies:
       - '@aws-sdk/client-rds-data'
@@ -1708,9 +1648,8 @@ snapshots:
 
   '@morlay/session-branch@0.0.11': {}
 
-  '@morlay/session-rdb@0.0.11(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7)':
+  '@morlay/session-rdb@0.0.11(zod@4.6.7)':
     dependencies:
-      '@deepseek-ai/schemastery': 3.18.5
       '@morlay/session-branch': 0.0.11
       drizzle-orm: 1.0.0-rc.5-ab785fc(pg@8.23.1)(zod@4.6.7)
       pg: 8.23.1
@@ -2175,58 +2114,16 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  dsh-better-sidebar@0.28.0:
+  dsh-context@0.33.1(zod@4.6.7):
     dependencies:
-      '@codemirror/commands': 6.11.1
-      '@codemirror/lang-cpp': 6.0.3
-      '@codemirror/lang-css': 6.3.1
-      '@codemirror/lang-go': 6.0.1
-      '@codemirror/lang-html': 6.4.12
-      '@codemirror/lang-java': 6.0.2
-      '@codemirror/lang-javascript': 6.2.5
-      '@codemirror/lang-json': 6.0.2
-      '@codemirror/lang-markdown': 6.5.2
-      '@codemirror/lang-php': 6.0.2
-      '@codemirror/lang-python': 6.2.1
-      '@codemirror/lang-rust': 6.0.2
-      '@codemirror/lang-sql': 6.10.0
-      '@codemirror/lang-vue': 0.1.3
-      '@codemirror/lang-xml': 6.1.0
-      '@codemirror/lang-yaml': 6.1.3
-      '@codemirror/language': 6.13.1
-      '@codemirror/legacy-modes': 6.5.5
-      '@codemirror/search': 6.7.2
-      '@codemirror/state': 6.7.6
-      '@codemirror/view': 6.43.14
-      '@deepseek-ai/schemastery': 3.18.5
-      '@formkit/auto-animate': 0.10.0
-      '@lezer/highlight': 1.2.5
-      '@xterm/addon-fit': 0.11.0
-      '@xterm/xterm': 6.0.0
-      clsx: 2.1.1
-      dompurify: 3.4.17
-      mermaid: 11.17.2
-      react-icons: 5.7.0
-      rxjs: 7.8.2
-      ws: 8.22.0
-      yaml: 2.9.1
-    transitivePeerDependencies:
-      - bufferutil
-      - utf-8-validate
-
-  dsh-context@0.33.1(@deepseek-ai/schemastery@3.18.5)(zod@4.6.7):
-    dependencies:
-      '@deepseek-ai/schemastery': 3.18.5
       zod: 4.6.7
 
   dsh-sync-plugin@0.11.5: {}
 
-  dshmarket@1.31.1(@deepseek-ai/schemastery@3.18.5):
+  dshmarket@1.31.1:
     dependencies:
       js-yaml: 4.3.1
       undici: 7.29.0
-    optionalDependencies:
-      '@deepseek-ai/schemastery': 3.18.5
 
   es-toolkit@1.52.0: {}
 
