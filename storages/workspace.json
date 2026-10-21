@@ -28,6 +28,7 @@
         "path": "/Users/houyuan/Documents/mywork",
         "title": "mywork",
         "sessionIds": [
+          "session-1881dda0-d6c7-45e7-9bed-e3169a99e41c",
           "session-bc505b84-5752-4c34-b3a3-38767de77c89",
           "session-4e555797-98d9-49a5-9a7e-2e4003e75b65",
           "session-73259531-f82a-4236-b0b6-ada31613cee1",
@@ -36,7 +37,7 @@
           "session-d388a3f7-42f1-489c-8508-5b339e4b5aa9"
         ],
         "createdAt": "2026-08-26T09:56:21.477Z",
-        "updatedAt": "2026-10-15T03:24:24.656Z"
+        "updatedAt": "2026-10-21T00:56:04.945Z"
       }
     }
   }
